@@ -1,0 +1,21 @@
+# 749 letter unit L4, original letter, img2 right page (fol. 52r), 5 cipher lines, from 749_img2R_s2.png (crops 2.2-4x).
+# Sign names and conventions as in 749_L2_signs.txt.
+
+L4 l1 | "porro." "e." "d." | π(s) "n." 7(i) "b" ϙ̦x(r) => sir (no e written) | α(q) ϙ(u) "Π." K(e) a(s) δ̶(t) Γ(i) => questi (null Π. inside) |
+        =(a) o-(u) Γ(i) a(s) 7(i) => auisi | ⊔(g) υ(l) 7(i) => gli | λ(h) ∂(o) => ho | λ(h) =(a) ϙ(u) ♀(t) Γ(i) => hauti |
+        ⊥(p) #o(e) e(r) => per | c(b) °P(o) h(n) M(a) => bona | Δ(et) | v(f) #o(e) ϙ̦(d) K(e) ∩(l) => fedel | o-(u) Γ(i) =(a) => uia |
+        P(n) ϙ(e) 7(ll) Γ(i) => nelli | α(q) -o(u) || (l2) #(a) ∩(l) 7(i) => quali
+L4 l2 | a(s) P̊(o) 16(nn) ϑ(o) => sonno | ⊙(d) P̊(o) 7(i) => doi |
+        +(c) ∂(o) P(n) ♀(t) e(r) =(a) ϙ̦x(r) Γ(i) ϙ(e) δ̶(t) M(a) => contrarieta | T(p) e(r) Γ(i) f(m) #(a) => prima |
+        π(s) +(c) e(r) 7(i) o-(u) #o(e) => scriue | M(a) => a | ‡(c) =(a) f(m) ɔ(b) e(r) M(a) 7(i) => cambrai | +(c) λ(h) ϙ(e) => che |
+        υ(l) K(e) => le | ‡(c) ϑ(o) a(s) K(e) => cose | ⊙(d) K(e) υ(l) => del
+L4 l3 | "Ras." => <Imperator Turcorum> | ⊥(p) e(r) P̊(o) +(c) #o(e) ϙ̦(d) K(e) h(n) °P(o) => procedeno | c(b) ϙ(e) h(n) K(e) => bene |
+        P(n) #o(e) ∩(l) => nel | "59." => <exercito> | ∇(et) | 8(q) ϙ(u) K(e) a(s) ♀(t) P̊(o) => questo | υ(l) ϑ(o) => lo | v(f) =(a) => fa |
+        ⊥(p) K(e) e(r) => per | a(s) T(p) =(a) h(n) ϙ̦(d) ϙ̥(e) e(r) #o(e) => spandere | c(b) ϑ(o) h(n) K(e) => bone |
+        P(n) ϑ(o) -o(u) ϙ̥(e) => noue
+L4 l4 | α(q) -o(u) M(a) => qua | "Der." "cum." | T(p) ϙ̦(o) 7(i) => poi | a(s) "b" +(c) e(r) "n" Γ(i) -o(u) ϙ(e) => scriue (nulls b, n inside) |
+        ⊥(p) #o(e) e(r) => per | 7(i) υ(l) => il | T(p) ϙ̦x(r) ϑ(o) ⊥(p) e(r) 7(i) P̥(o) => proprio | a(s) o-(u) °P(o) => suo |
+        T(p) =(a) e(r) ♀(t) 7(i) ‡(c) o-(u) υ(l) M(a) ϙ̦x(r) K(e) => particulare | #(a) ∩(l) => al | "Bi." => <Rex Galliae> |
+        +(c) λ(h) #o(e) => che
+L4 l5 | υ(l) =(a) => la | +(c) M(a) e(r) K(e) a(s) ♀(t) Γ(i) #(a) => carestia | ϙ̥(e) => e | Π(g) ϙ̦x(r) M(a) P(n) ϙ̦(d) K(e) => grande |
+        h(n) ϙ(e) ∪(l) => nel | "59." => <exercito> | "Π." "d." "e." "z." (nulls)

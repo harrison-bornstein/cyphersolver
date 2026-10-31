@@ -1,0 +1,40 @@
+# HHStA StAbt Tuerkei I 7-4-4, fol. 29 ("Dupl. 1548 1/6"). Sign transcription, 13 lines.
+# Lighter independent pass, as asked: the sign labels below are the maintainer's (transcription/f29_lines_01-07.txt,
+# f29_lines_08-13.txt, label names as in f29_label_values.tsv), copied unchanged; nulls in "quotes".
+# Checked here against 744_03_100.png / 744_f29_s1..s4 at L01 (opening) and L11-L13 (date clause and close).
+# Below each checked line: my word division and the values the signs give (R367; crossed-tail circle = r, smooth 9-tail = x).
+#
+# Label key (value used): Gamma 7 o7 7flat = i; 7ll 7slant = ll; K hash-o #o circ-ring circ-ball = e/ae; circ-stem = u/v/e;
+# circ-loop = d (also e); = hash M = a; a a-lat Pi-tick pi = s; Pi = null pi; sqcup sqcap pi-feet box-open = g;
+# t-sign female venus t-loop = t; -o o- = u/v; e e-lat 9tail circ-x = r; gtail circ-curl = x; h P L-long = n;
+# P8 paren-big d6 o-P °P P-ball = o; I-foot = P-shaped: o (with ring) or n; dotcirc rho = d; F f = m; T invT perp T-foot = p;
+# cup arch breve inv-breve = l; + cross2 = c; lambda = h; rparen rev-c c-lat = b; v caret = f; taurus alpha = q; nabla = et;
+# 12 = tt; 13 = ss; u-lat = ? (g by the crib only).
+
+L01: "idcirco" "b" "d" e circ-ring T cup o7 cross2 hash Pi "n" Pi-tick Gamma sqcup 7 a F circ-stem h dotcirc o- Pi-tick M -o sqcap o- a t-sign circ-stem a circ-loop K Gamma sqcup e = female 7 hash 9tail hash-o gtail M
+L02: invT paren-big cup o-P h 7 circ-ring f = sqcap P -o Pi-tick dotcirc o- gtail arch 7 t-sign -o 9tail M P Gamma hash-o e circ-stem 13 o7 K T 9tail o- a 7 circ-ring F P8 Pi-tick hash -o Gamma K "z" "Dar" "n"
+L03: dotcirc paren-big F Gamma P -o a nabla Pi lambda K 9tail hash-o Pi-tick "spu" "b" "atq" f M sqcup h 7 v Gamma + circ-ring circ-loop paren-big F Gamma P K hash f o7 cross2 hash-o h P8 a female circ-ring e dotcirc Gamma
+L04: cup K + t-sign hash-o F 7 a Gamma f circ-stem Pi-tick = circ-loop a K 9tail circ-ring P o7 13 Gamma F -o f nabla T paren-big female hash-o h t-sign o7 13 Gamma f o- F dotcirc o-P f Gamma P circ-stem f cross2 K a = e circ-ring
+L05: F t-sign o- 9tail + M e -o f cross2 circ-stem F arch 7 12 K e o7 a lambda o- P cross2 o7 h female hash-o 9tail invT e circ-ring t-sign K f h P8 Pi-tick female e -o F P Gamma + paren-big cup hash
+L06: o- f M e F hash-o h Gamma circ-stem f = F M sqcap h o7 caret Gamma + circ-ring P female Gamma hash -o K a t-sign 9tail = invT paren-big a female o- cup M f circ-stem Pi-tick T e P8 hash-o M hash f 7
+L07: + o7~ t-sign Gamma = taurus o- K P paren-big rparen 7 a cross2 circ-stem F f hash circ-stem a t-sign M female hash-o o7 7ll Gamma -o Pi-tick 7 h t-sign K e + circ-ring dotcirc o7 female o-P f P 7 + P8 h a o7
+L08: breve Gamma d6 M t-loop alpha -o circ-ball hash circ-stem circ-curl 7flat inv-breve Gamma d6 o7 7slant circ-stem f = rho Gamma -o circ-stem K venus taurus -o °P perp d6 13 o7 t-loop hash dotcirc + circ-ball a-lat M c-lat K = [~ f M #o
+
+L09: pi venus = t-loop K f venus o- t-loop Â°P T circ-stem circ-x circ-stem K h o7 e-lat #o circ-x K f P d6 rev-c Gamma a-lat u-lat e-lat = venus M F v hash + o7 circ-ball t-loop alpha -o K c-lat #o h circ-stem o- M
+
+L10: breve K = venus dotcirc = t-loop circ-stem f "Spo" + e-lat hash + °P -o o7 #o "cum" T circ-x 7flat F M f K P a-lat Gamma pi 7flat o- h 7flat Gamma f 7flat 7slant K a-lat Gamma F d6 taurus -o Gamma L-long
+
+L11: box-open K h venus circ-stem a-lat 7flat f P-ball alpha -o M dotcirc e-lat = pi-feet circ-ball pi Gamma F d6 Â°P + t-loop = circ-stem P-ball Ctail pi-leg circ-x #o pi-feet h 7flat o- K circ-x I-foot I-foot d6 a-lat t-loop e-lat I-foot~
+L12: "Porro" nabla breve d6 + P-ball pi-feet circ-stem Â°P "cum" "b" "n" "d" "Der" circ-ball 9 â€¡ d6 f Gamma a-lat Gamma a-lat T-foot h #o Gamma F~ = + e-lat circ-ball circ-x K pi Gamma circ-ball
+L13: F # Gamma circ-ball a-lat venus = t-loop o7 a-lat T e-lat d6 perp circ-x o7 = "n" "b" "spu"
+
+# Checked lines, word division (this pass):
+L01: "idcirco" "b" "d" | e circ-ring T cup o7 cross2 hash = r e p l i c a | Pi "n" (nulls) | Sigismundus | Augustus | circ-loop K Gamma = d e i |
+     sqcup e = female 7 hash = g r a t i a | 9tail hash-o gtail = r e x | M = a (unexplained; Poloniae follows on L02, spelt out)
+L11: (quin-) box-open K h venus circ-stem a-lat 7flat f P-ball = gentesimo | quadragesimo | octauo | Ctail "." Pi "." (nulls) |
+     circ-x #o pi-feet h 7flat = r e g n i | o- K circ-x I-foot[°P] = v e r o | I-foot[P] d6 a-lat t-loop e-lat I-foot~[7] = n o s t r i |
+     (no "primo"; the line ends with space before the edge)
+L12: "Porro" | nabla = et | breve d6 + P-ball = l o c o | pi-feet[Pi-tick?] circ-stem °P = s u o | "cum" "b" "n" "d" "Der" |
+     circ-ball 9 = e x | cross2 d6 f Gamma a-lat Gamma a-lat T-foot[= °P with long stem and foot, o] h #o = c o m i s i s o n e (for commissione) |
+     [maintainer's "Gamma F~" is one wide pi with a stub = Pi-tick, s] = + e-lat circ-ball = s a c r ae | circ-x K pi Gamma circ-ball = r e g i ae
+L13: F # Gamma circ-ball a-lat venus = t-loop o7 a-lat = m a i e s t a t i s | T e-lat d6 perp circ-x o7 = : p r o p r i a | "n" "b" "spu"

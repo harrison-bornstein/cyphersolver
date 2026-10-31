@@ -1,0 +1,57 @@
+# Contemporary interlinear Italian decipherment ("gloss") in the ORIGINAL letter, HHStA Türkei I 7-4-9
+# (img2 = fol. 51v/52r, img3 = fol. 52v). Written in a chancery hand ABOVE each cipher line (checked: the
+# gloss word stands over the code word it renders: "il Turcho" over Ras, "Re de Franza" over Bi, "frate
+# Georgio" over zos, "Bassa" over Ka). Read from the screenshots at 1x-2.5x, 31 Oct 2026; small cursive,
+# so single words are uncertain ([?]). Line breaks follow the cipher lines. The replica (img4R/img5) has no gloss.
+
+== L1 (img2 left, top block, 5 cipher lines; begins on fol. 51r, cut off in img1)
+L'altra causa puole essere che no hauendo il Turcho noue degne di dare
+per auiso et debeno le cose sue prouedere(?) [..] si impatientie(?) perho
+non auisa ne lassa forsi che altri auisino cosa alcuna; se aspettano
+[de] giorno in giorno noue da qualche fatto importante
+(line 5: tail of "importante" + nulls, no gloss)
+
+== L2 (img2 left, block "Idcirco cum π nat ...", ~15 cipher lines)
+Scriue anchora detto Aramon al Re de Franza, lequale
+tre(?) Cambrai le ha aperte et lette, il tenore dellequale in sostantia
+si e questo, cioe che sua Christianissima Maiesta [orator?] non si marauegli
+se forsi la sua [orator?] [..] per detto Aramon farra grande spesa
+et maiore del passato, maxime per la prouisione fatta da esso
+Aramon per fare questo viagio de spesa, il qual viagio e de grandissima
+spesa, et che la carestia e grande nel Exercito del Turco, et che oltra il resto(?)
+della [..] di sua Christianissima Maiesta [orator?] col Turco ogni cosa passara
+bene et secondo la volunta de sua Maiesta, et che quando parti da
+Constantinopoli che haueua lassato [..] vele(?) armate con Drogut nel .65.(?) mare(?)
+et altre vinti Galere armate con Salerais, et che tutta via se calafataua et se
+fermaua el resto delle Triremes(?) del Turco per mandarle fora a ogni requisitione
+de sua Maiesta Christianissima, et che se il Bailo de Constantinopoli non hauesse
+fatto [..] malissimo offitio contra sua Christianissima Maiesta, le cose
+questo anno andauano meglio, et che el Turco non andaua in Persia
+
+== L3 (img2 right, block "atq Der. ...", 4 cipher lines)
+nientedimancho che sua Christianissima Maiesta sia de bon animo,
+perche l'anno seguente farra [mirabilia?] circa le prouisioni
+lequale se faranno per ruinare ambidoi le Maiesta, et simil cose assai ha scritto
+detto Aramon in quelle sue dirette al Re de Franza
+
+== L4 (img2 right, block "porro e d ...", 5 cipher lines)
+Sire, questi doi auisi gli ho hauti per bona et fidel via, nelli
+quali siamo doi contrarieta: prima scriue a Cambrai che le cose del
+Turco procedono bene nel Exercito, et questo lo fa per spander bone noue
+qua; poi scriue per il proprio suo particular al Re de Franza che
+la carestia e grande nel Exercito
+
+== L5 (img2 right, block "Cum etiam b Sis Δ Nis ...", 6 cipher lines)
+Hibray Bassa et Ionuzbey hanno hauto a dire che e una grande vergogna di questi
+Franzosi, che vengono con tante busie del Turco, et che cosa de
+importantia possono essere queste che porta el Capitan Bartholomio,
+intendando hora mai uno mese che e qua, et hauendo fatto prima tal(?)
+[giongere?] qua tanta furia de volere partire
+(last line: nulls b n z spu)
+
+== L6 (img3 = fol. 52v, block "etiam spo ...", 5 cipher lines)
+Detto Fumel ha datto al Bassa [..] in lingua Turchescha una
+copia delle lettere lequale, como esso Fumel afferma, lo sonno state
+scritte d'hora del Re di Franza, la copia dellequale io la mando [..]
+nella presente. Mando anchora a vostra Maiesta la copia de doi
+lettere de frate Georgio nouamente dirette al Bassa qua in Constantinopoli

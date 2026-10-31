@@ -1,0 +1,18 @@
+# 749 letter unit L3, original letter, img2 right page (fol. 52r), 4 cipher lines, from 749_img2R_s1.png (crops 2.2x).
+# Sign names and conventions as in 749_L2_signs.txt.
+
+L3 l1 | "atq." "Der." | h(n) 7(i) ϙ̥(e) P(n) ♀(t) K(e) ⊙(d) Γ(i) f(m) =(a) h(n) +(c) λ(h) P̥(o) => nientedimancho |
+        ‡(c) λ(h) #o(e) => che | a(s) ϙ(u) =(a) => sua | +(c) λ(h) e(r) 7(i) a(s) δ̶(t) Γ(i) =(a) h(n) 7(i) 13(ss) Γ(i) f(m) M(a) => christianissima |
+        F(m) M(a) K(e) π(s) ♀(t) #(a) => maesta | a(s) δ̶(t) Γ(i) =(a) => stia | ϙ̦(d) ϙ̥(e) => de | ɔ(b) ∂(o) P(n) => bon |
+        M(a) h(n) 7(i) f(m) °P(o) => animo
+L3 l2 | ⊥(p) K(e) ϙ̦x(r) +(c) λ(h) ϙ(e) => perche | υ(l) M(a) 16(nn) ϑ(o, looped) => lanno |
+        a(s) "b." K(e) ⊔(g) "n." ϙ(u) ϙ̥(e) "d" h(n) ♀(t) #o(e) => seguente (nulls b, n, d inside the word) |
+        a(s) M(a) e(r) =(a) => sara | f(m) 7(i) ϙ̦x(r) #(a) c(b) Γ(i) υ(l) 7(i) =(a) => mirabilia | F(m) o-(u) P(n) ⊙(d) Γ(i) => mundi |
+        +(c) 7(i) e(r) ‡(c) M(a) => circa | ∩(l) #o(e) => le | T(p) e(r) ϙ̦(o) ϙ(u) 7(i) a(s) Γ(i) || (l3) P̥(o) h(n) 7(i) => prouisioni
+L3 l3 | υ(l) ϙ(e) 8(q) ϙ(u) =(a) ∩(l) K(e) => lequale | a(s) #o(e) => se | v(f) M(a) ϙ̦x(r) =(a) 16(nn) ϑ(o) => faranno |
+        ⊥(p) K(e) e(r) => per | ϙ̦x(r) o-(u) Γ(i) h(n) =(a) e(r) ϙ̥(e) => ruinare | "Mus." => <ambidoi le Maiesta, gloss> | Δ(et) |
+        a(s) o7(i) f(m) Γ(i) ∪(l) => simil | +(c) P̥(o) π(s) #o(e) => cose | #(a) 13(ss) =(a) Γ(i) => assai | λ(h) =(a) => ha |
+        a(s) +(c) e(r) 7(i) 12(tt) ϙ(o) => scritto
+L3 l4 | ⊙(d) ϙ(e) 12(tt) P̥(o) => detto | M(a) e(r) =(a) f(m) P̥(o) h(n) => aramon | o7(i) P(n) => in |
+        α(q) ϙ(u) ϙ̥(e) 7(ll) #o(e) => quelle | π(s) o-(u) K(e) => sue | ϙ̦(d) 7(i) e(r) ϙ̥(e) 12(tt) K(e) => dirette | M(a) υ(l) => al |
+        "Bi." => <Rex Galliae> | "z." "n." (nulls)

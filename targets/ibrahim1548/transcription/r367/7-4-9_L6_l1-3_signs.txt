@@ -1,0 +1,23 @@
+# 749 letter passage L6, img3 (fol. 52v), lines 1-3 (lines 4-5 in 749_L6_signs.txt)
+# Read from 749_img3_s1.png (ll. 1-2, l. 3 top half) and 749_img3_s2.png (l. 3), crops 4-8x in crops/L6*.
+# Signs read first, gloss (749_gloss.txt, L6) used only as a check afterwards. ? = doubtful sign.
+# "|" = word split; (null) = null sign; (code) = code group.
+L6 l1 | etiam.(null) spo.(null) | ϙ̦(d) K(e) d(null) 12(tt) n.(null) ∂(o) | v(f) b(null) ϙ(u) Π(null, plain Π inside word) f(m) #o(e) υ(l) |
+       λ(h) =(a) | ⊙(d) M(a) 12(tt) °P(o) | #(a) ∩(l) | Ka.(code) | o7(i) h(n) | υ(l) Γ(i) P(n) ⊔(g, cup with taller left upright) o-(u) M(a) |
+       ♀(t) o-(u) e(r) +(c) λ(h) #o(e) a(s) ‡(c) #(a) | ϙ(u) P(n) =(a)
+L6 l2 | +(c) ∂(o) T(p) 7(i) M(a) | 8-shape/§(d) #o(e) 7(ll) ϙ(e) | υ(l) K(e) 12(tt) ϙ(e) e(r) K(e) |
+       ∩(l) ϙ(e) ♉(q, horned 8) o-(u) M(a) υ(l) #o(e) | +(c) ∂(o) f(m) K(e) | #o(e) 13(ss) °P(o) | v(f) ϙ(u) F(m) ϙ(e) ∩(l) |
+       #(a) ^(f) K(e) 9(r, crossed tail) f(m) M(a) | υ(l) ϙ(e) | Π‡(s) ∂(o) 16(nn) P-on-circle(o) | a(s) ♀?(t) =(a) δ̶(t) K(e)
+L6 l3 | Π-stub(s) +(c) e(r) Γ(i) 12(tt) #o(e) | λ(h) ∂(o) 9(r, crossed tail) #(a) | ϙ̦/looped-g(d) =(a) υ(l) | Bi.(code) |
+       ∩(l) M(a) | ‡(c) ∂(o) ⊥(p) o7(i) =(a) | ⊙(d) #o(e) 7(ll) ϙ(e) ♉(q) ϙ(u) M(a) υ(l) ϙ(e) | o7(i) ∂(o) | ∩(l) #(a) |
+       f(m) b.(null) =(a) h(n) n.(null) ⊙(d) P-on-circle(o) | o7(i) P(n) +(c) υ(l) ϙ(u) a?(s) =(a)
+# Notes
+# l1 "fumel": a plain Π stands between u and m; read as the loose null π (loose nulls sit inside words, cf. L4 l1
+#    "questi" with null Π.). Plain Π = g would give "fugmel".
+# l1 "turchesca": no h after the second c (gloss "Turchescha"); first sign is a clear ♀ (cross below the stem, 8x crop).
+# l2 "come": signs + ∂ f K = come (gloss "como"). "aferma": one f sign (^), gloss "afferma".
+#    "le": υ ϙ = l e (gloss transcribed "lo"). "state": ♀? = circle-on-stem with a bar low on the stem; the bar may be
+#    gloss ink from the line below, so the cross is not certain; context gives t.
+# l3 "hora": no d sign before λ (gloss "d'hora"). "dal": looped sign + = + υ = d a l (gloss "del").
+#    "inclusa": last-but-one sign is Latin a (= s) in s2; in s1 a gloss stroke runs up from it and makes it look
+#    like Latin d (a null), which would give no word. Line 3 continues into l4 "nelle presente mie".

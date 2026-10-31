@@ -1,0 +1,41 @@
+# HHStA StAbt Tuerkei I 7-4-4, fol. 28 (copy A). Sign transcription, line by line.
+# Source: 744_f28_full.png (932 px), deskewed by 1.8 deg, line crops at 2.6-4x (the scan is the limit; the 2400 px AIS
+# scan could not be fetched from this session). 1 interlinear header line (L00) + 16 cipher lines (L01-L16).
+# Words separated by " | " (word division by the plaintext, not by spacing on the page). Nulls in "quotes".
+# ? after a sign = doubtful shape. A sign split over a line break is marked ->.
+#
+# Sign names (k367 / KEY_BRIEF names where they exist) and the value used:
+#   =  #  M        a          a  Π (pi, long top)   s          π (small pi, no long top)  null
+#   Πg (footed pi / pi with base)  g     U (cup, taller left upright)  g     ΠΓ  pi followed by a Gamma-like foot (g, see notes)
+#   Γ  7  o7       i          7 also = ll (double)   13  ss
+#   K  #o          e/ae       δ  circle on stem with a loop below ("looped g"; = circle-on-stem with second circle): d or e/ae
+#   δ̶  looped circle with a bar through the stem: t      ♀  circle with cross below: t
+#   ϙ  circle on stem: u/v, also e/ae and t in this hand (family ambiguous at 932 px)
+#   -o  o-          u/v        e (Latin e)  r     ꝛ (2-shaped r)  r     ꝗ (circle with crossed tail)  r
+#   9  (9 with smooth tail)  x                      h  n     P  n     °P (P with small circle left)  o
+#   ᵽ  (P with circle/foot below)  o                ∂ (reversed 6)  o     θ (dotted circle)  d
+#   F  f  m       T  ⊥  p       ∪ (cup)  ∩ (arch)  l      +  ‡  c      λ  h      ɔ  b     c (Latin c)  b
+#   v  f          α  ꝏ (taurus)  q      Δ  et      Bu  code word (= Vb, rex Poloniae)
+#   nulls: idcirco, Dar, cum, spu, spo, atq, and loose b d n z π
+
+L00 (interlinear, above L01, right of the docket "A (: hiil. 3ᵘ? 1548 22a/7)"):
+     "n" | = δ | λ [δ? written above λ] ɔ e # Γ | "d" "z" | c # 13 M e⁺ | "cum"
+L01: "idcirco" "Dar." | δ "b" 9 "n" #o "π" F ⊥ ∪ ϙ f | "d"? "." "z" | ∩ Γ ♀ K e = ꝗ -o F | Bu . | "spu" "atq" "z"
+L02: a 7 U Γ Π F °P h θ ϙ a | # ϙ Πg o- Π ♀ -o a | δ δ Γ | U e = δ̶ 7 M | Bu . | f # Πg ϙ? a | θ -o 9 | ∪ Γ ♀ ->
+L03: -o ϙ = h o7 #o | e o- a Γ δ | T e ϙ Π o7 K | f ∂ a = -o Γ #o | Δ "z" "z" | δ °P f Γ h ϙ a | Δ | "spo."
+L04: λ δ e K a | F # [ink blot] Πg h o7 v Γ + δ | θ ∂ f Γ P #o | M f 7 ‡ K | h ᵽ a ♀ ϙ e | δ Γ ∪ δ + δ̶ #o | f o7 a ->
+L05: Γ F ϙ Π | # δ | a #o e K h Γ 13 7 f -o F | Δ | T ∂ ♀ δ h δ̶ Γ 13 -o f | + δ a = e δ f | ♀ ϙ e ->
+L06: + λ = e ϙ f | ‡ o- f | ∪ Γ ♀ δ e Γ a | λ o- h + | o7 δ̶ δ e T ꝛ #o ♀ δ f | h ∂ a ♀ e -o f | h Γ ->
+L07: ‡ ∂ ∪ = ϙ f | # e f δ h Γ -o f | "spu." | # | f = Πg h Γ v 7 + #o h ♀ Γ = | ϙ ϙ a ♀ e #
+L08: T ∂ a ♀ ϙ ∪ M f -o a | T e ∂ | δ = | M[blotted] # f Γ + Γ ♀ o7 # | ꝏ ϙ δ | h ∂ ɔ 7 a | + ϙ f
+L09: F # Γ δ a ♀ = δ̶ δ | o7 7 Γ δ a | Γ h ♀ δ e + #o θ Γ δ̶ | ∂ f h Γ | + °P h a Γ ∪ 7 ᵽ
+L10: Δ | # ϙ [blot, 8?] Γ ∪ 7 ∂ | o7 7 ϙ f | # θ Γ -o ϙ δ ♀ | ꝏ ϙ ᵽ f ∂ θ °P | T ∂ 13 Γ δ̶ | # δ
+L11: + δ a = e δ M f | F # Γ δ Π ♀ = δ̶ δ F | ♀ -o δ̶ ᵽ | ⊥ δᵉ? -o #o h Γ e K | ꝛ δ f | "z"
+L12: P? ∂ ɔ Γ a | Πg e = ♀ # f | v M + Γ δ ♀ | ꝏ ϙ δ | ɔ K h #o | ϙ = ∪ δ # ♀ | θ = ♀ ϙ f
+L13: + e # ‡ λ ∂ ϙ Γ #o | T e Γ f # | F δ h a Γ Π | o7 ϙ h "π"? | f o7 7 δ a Γ f ∂ | ꝏ ϙ ->
+L14: o7 h ΠΓ δ h ♀ δ a Γ f ∂ | α -o # δ e = ΠΓ δ a Γ f °P | ∂ + ♀ # ϙ ᵽ | e δ Πg h Γ
+L15: ϙ δ e ∂ | h °P Π ♀ ꝛ o7 | ⊥ e Γ f ∂ | Δ | ∪ ∂ + ᵽ | a ϙ °P | δ 9 | ‡ ∂ f o7 a Γ ᵽ P #o
+L16: f = Γ δ a ♀ = δ̶ Γ Π | e #o Πg Γ δ | T ꝛ ∂ ⊥ e o7 = | "z" "n" "spu" "atq" "spo" "z"
+
+# Sign count (excluding the null words idcirco/Dar/cum/spu/spo/atq, including loose-letter nulls, Bu counted as 1):
+# see 744_notes.md.

@@ -1,0 +1,52 @@
+# 749 enclosed cipher copy B, img6 (one leaf, torn away at the top left; "B." in the left margin at l. 8).
+# 15 cipher lines (the earlier "~14" was a miscount). Read 31 Oct 2026 from 749_img6_s1..s3.png stitched into one
+# page (s2 starts at s1 y=329, s3 at s2 y=329), line crops at 2.6-3x. Sign names as KEY_BRIEF / k367.txt with this
+# hand's corrections (749_notes.md). "|" = word split; value in (); ? = doubtful; "quoted" = null or code.
+# Lines 1-6 lose their left part in the tear (l. 1 starts at ~36% of the width, l. 2 at ~33%, l. 3 at ~30%,
+# ll. 4-6 at ~12-25%). Signs I could not resolve into words are given in [..] as written.
+
+B l01 | [torn] | "etiam." "spu." | Π(null?) #o(e) ϙ̊x(x, smooth tail) ϙ̊(e) "b" f(m) "Π" T(p) υ(l) ϙ(u) f(m) => exemplum |
+        "π" ∪(l) Γ(i) ‡̊(t) ϙ̊(e) ϙx(r, crossed tail) =(a) e(r) ϙ(u) f(m) => literarum
+B l02 | [torn] | "r." (tail of Der.?) | o7(i) 7(ll) "n" -o(u) a(s) ‡̊(t) ϙx(r) Γ(i) 13(ss) "b" "z" o7(i) f(m) ϙ̊(e) => illustrissime |
+        ϙ̊(d) ϑ(o) f(m) Γ(i) h(n) K(e) => domine | "⊙." (d., null) | °P(o) ʅ(b?) a(s) #o(e) => obse... (rest torn)
+B l03 | [torn: "...ruandissim-" lost] ϙ̊(e) | a(s) #o(e) ϙ(u) Γ(i) ♀(t) Γ(i) ∂(o) ϙx(r) -o(u) f(m) => {seruitiorum} (r of ser- not written) |
+        "n" F(m) ϙ̊(e) °P(o) e(r) ϙ(u) "b" f(m) => meorum | "Z" |
+        +(c) ∂(o) f(m) #o(e) h(n) ϑ(d) =(a) ϙ(t) Γ(i) ∂(o) || (l04) h(n) #o(e) f(m) => comendationem
+B l04 | [tear at left; comendatio|nem reads across it] | "d" | F(m) #o(e) ϙ(u) f(m) => [meum] |
+        T(p) #(a) ♀(t) o7(i) ∂(o) e(r) Γ(i) ɔ(b) -o(u) a(s) => [patioribus] | o7(i) 7(ll) Γ(i) Π‡(s) => [illis] |
+        8(q) ϙ(u) ∂(o) ϑ(d?) => [quod] | a(s) ϙ(u) K(e) => [sue] | 50. => <bellum>
+B l05 | [torn] #(a) ɔ(b) #o(e) c(b) M(a) f(m) => [abebam] (h lost in the tear?) | =(a) ⊙(d) => ad | "F." (unexplained) |
+        F(m) #(a) Γ(i) ϙ(e) Π‡(s) ‡̊(t) M(a) ϙ(t) K(e) f(m) => maiestatem | a(s) -o(u) ∪(l) ‡̊(t) =(a) h(n) => sultan |
+        Π‡(s) P̊(o) ⊃(l) K(e) 7(i) F(m) #(a) P(n) => soleiman | [( P̊ o7 o- ϙ ϙ̊ e ϙ Γ 13 K f] unresolved
+B l06 | [torn] [#o c o- ϑx Γ ♀] [P ϑ F K ϙ a ϑ] [ϑ ‡ M Π‡ ‡̊ e ‡̊ e Γ a] | o7(i) 7(ll) ϑ(o) "b" e(r) o-(u) f(m) => illorum |
+        α(q) "n" -o(u) 7(i) ⊙(d) => quid | [Γ -Γ + o7 ♀] | 50. => <bellum> | [Γ Π‡ ϙ -o ϙ ϑ #o]
+B l07 | ϙ(u) K(e) e(r) Π‡(s) o-(u) F(m) => [uersum] | Δ(et) | a(s) P̊(o) ∪(l) o-(u) ‡̊(t) [blot] o- f => [solut?um] |
+        ϙ̊(e) 13(ss) K(e) => esse | [# Π Π.] | [ϑx o7 K e #o ⊃ Γ] | [‡ ϑ Γ a ϙ P ϙ] | λ(h) ϑ(o) F(m) 7(i) h(n) K(e) a(s) => homines |
+        [ϑx n ϙ ∪ o7 Π‡] | [v #o ϙ e ϙ Γ P] | [= h ⊙ Γ]
+B l08 | ("B." in margin) ∇(et) | [ϑ ϑx ϙ̊ e = + ϑ o- Π‡] | [# h ϙ̊ ϙ̊ ϑ K ∂] | [c = e + λ] "d." | [P̊ #o o7 e 12 #o ϙ̊ ϑ] |
+        Λ(f) K(e) "z." ⊙(d) Γ(i) "b." P(n) M(a) h(n) ϙ̊(d) -o(u) a(s) => {ferdinandus} (no r) | [ϙ ϙ̊] "d." | [7 ϙ] "Π." [h] |
+        [= f o- K P Γ ϑ o- ϙ || e ϙ F]
+B l09 | (e ϙ F ends the l08 group) | =(a) ∪(l) o7(i) o-(u) ϙ̊(d) => aliud | 50. => <bellum> |
+        v(f) -o(u) ϙ̊(t) ϙ(u) ϙx(r) o-(u) f(m) => futurum | a(s) Γ(i) => si |
+        [‡̊ ϙ #o ⊃ P ϑ h T ∪ = h ϙ o7 Π P P̊ e ϑ λ̊ P ‡̊ ϙ = h ϑ ϙ ϙ F] | -o(u) P̊(o) ∪(l) o-(u) Γ(i) => uolui |
+        ⊙(d) ϑ(o) f(m) Γ(i) P(n) M(a) ϙ(t) Γ(i) || (l10) °P(o) h(n) o7(i) => dominationi
+B l10 | -o(u) #o(e) Π‡(s) ‡̊(t) ϑx(r) K(e) => uestre | Γ(i) 7(ll) ϙ(u) ϙ ϙ 13(ss) "n." ϙ̊(t) e(r) 7(i) a(s) Γ(i) ϑ? f(m) ϙ(e) => {illustrissimae} |
+        Δ(et) | F(m) M(a) 7(i) K(e) a(s) ϑ̶(t) =(a) ϙ(t) Γ(i) => maiestati | Π‡(s) ϙ(u) #o(e) => sue | [M ϙ a ‡ Γ ϙ o- f] | [f] |
+        ⊙(d) =(a) ϑx(r) K(e) => dare | h(n) o7(i) +(c) λ(h) Γ(i) ∪(l) P̊(o) F(m) Γ(i) || (l11) P(n) -o(u) Π‡(s) => nichilominus
+B l11 | ⊃(l) o7(i) 12(tt) ϙ̊(e) e(r) #(a) a(s) => litteras | [Γ 7] "b." "b." | [= a ⊥ ϑx K + 12 o] | [T ϙ̊ P e 7 F ⊃ ⊃ K Π‡] |
+        ⊙(d) ∂(o) "n." f(m) "b." Γ(i) h(n) =(a) ϑ̶(t) "Π." o7(i) P̊(o) -ϙ(?) => {dominationi} (last sign unclear) |
+        -o(u) K(e) a(s) ϑ̶(t) e(r) M(a) => uestra | "z." o7(i) 7(ll) ϙ(u) 13(ss) "d." ϙ̊(t) e(r) || (l12) Π‡(s) Γ(i) f(m) M(a) => {illustrissimae}
+B l12 | ϑx(r) ∂(o) ∪(g, tall-left cup) °P(o) => rogo | ϙ(u) ϑ̶(t) => ut | =(a)? | f(m) # # 7(i) K(e) a(s) ϙ̊(t) M(a) ϑ̶(t) ϙ(e) => {maiestate} (a doubled) |
+        Π‡(s) o-(u) =(a) => sua | ∂(o) e(r) ϙ(d) 7(i) P(n) M(a) ϑx(r) #o(e) => ordinare | -o(u) K(e) ∪(l) Γ(i) ϑ̶(t) => uelit |
+        o-(u) ϙ̊(t) => ut | a(s) 7(i) => si | h(n) ϙ(e) +(c) ϑ̶? K(e) 13(ss) #o(e) => {necesse} | v(f) o-(u) K(e) e(r) o7(i) ϙ̊(t) => fuerit |
+        o7(i) P(n) => in
+B l13 | ⊥(p) ϑx(r) ϙ(o) f(m) T(p) ϑ̶(t) o-(u) => promptu | λ(h) =(a) ɔ(b) K(e) λ?(blotted) M(a) f(m) o-(u) Π‡(s) => {habeamus} |
+        "N." (code or the key's N-shaped "dies" sign) | +(c) ∂(o) e(r) ⊙(d) ϙ(e) => corde |
+        -o(u) o7(i) Π(g) Π K(e) a(s) 7(i) F(m) =(a) => {uigesima} (Π doubled) | ∂(o) ‡(c) ϙ̊(t) =(a) ϙ(u) M(a) => octaua |
+        Γ(i) o-(u) ι? -o ∪(l) Γ(i) o7(i) => {iulii} | f(m) h? Γ(i) ∪(l) "Π." K(e) a(s) 7(i) ‡? ϑ(o) => {millesimo}
+B l14 | 8(q) "d." ϙ(u) 7(i) P(n) ∪(g) ϙ(e) h(n) ϙ̊(t) K(e) Π‡(s) Γ(i) f(m) °P(o) => quingentesimo | [P̊] |
+        α(q) "e." o-(u) =(a) ϙ̊(d) e(r) #(a) Π(g) K(e) Π‡(s) Γ(i) F(m) P̊(o) => quadragesimo | ϑ(o) ‡(c) ϑ̶(t) M(a) ϙ(u) P(o) => octauo |
+        Δ(et) | ∪(l) ∂(o) +(c) P̊(o) => loco | a(s) -o(u) °P(o) => suo |
+        a(s?) "b" a(s) "b." ϙ(e) "n." e(r) ϙ(u) Γ(i) "d." ϙ̊(t) ∂(o) ϑx(r) => seruitor (one extra a) | "zos." => <Frater Georgius> |
+        #o(e) || (l15) T(p) o7(i) Π‡(s) Π ‡(c) ∂(o) ⊥(p) o-(u) a(s) => {episcopus}
+B l15 | ϑ(u?) =(a) e(r) h? M(a) ϙ̊(d) "z" Γ(i) K(e) h(n) a(s) o7(i) Π‡(s) => {uaradiensis} | "atq." "Dar." "e." "Π" "z" "spo." "b" "n" "Π" (nulls)

@@ -29,24 +29,24 @@
     "by": "llm from images",
     "source": "AIS getimage.aspx, width 2400",
     "image_quality": "good",
-    "notes": "f. 29 (copy A) transcribed sign by sign, 13 lines, 572 signs including 21 null words, by two image agents on 30 Oct 2026 (transcription/f29_lines_01-07.txt, f29_lines_08-13.txt). The agents had the Latin exemplar open, so values marked * come from it and unmarked values may be biased toward it; a blind re-transcription has not been made. f. 28 and the 7-4-5 copies not transcribed. Blind check of lines 8-10: 61.4% match against the exemplar vs 99.2% crib-assisted (transcription/blind/RESULT.md); use 61% as the independent fit."
+    "notes": "f. 29 (copy A) transcribed sign by sign, 13 lines, 572 signs including 21 null words, by two image agents on 30 Oct 2026 (transcription/f29_lines_01-07.txt, f29_lines_08-13.txt). The agents had the Latin exemplar open, so values marked * come from it and unmarked values may be biased toward it; a blind re-transcription has not been made. f. 28 and the 7-4-5 copies not transcribed. Blind check of lines 8-10: 61.4% match against the exemplar vs 99.2% crib-assisted (transcription/blind/RESULT.md); use 61% as the independent fit. 31 Oct 2026 (PR #196): f. 28 transcribed sign by sign from a 932 px viewer screenshot (transcription/r367/f28_signs.txt) and f. 29 re-checked (f29_signs_recheck.txt); both copies deciphered with R367, plaintext in reading_full.txt (744A, 744D)."
    },
-   "read": "not read"
+   "read": "read"
   },
   {
    "id": "7-4-5",
    "shelfmark": "Wien, Haus-, Hof- und Staatsarchiv, StAbt Türkei I 7-4-5 (AIS 7040824), f. 31-34",
-   "date": "2 July 1548",
+   "date": "6 June and 2 July 1548",
    "year": 1548,
    "country": "Austria",
-   "route": "Frater Georg (Vinea) -> Ibrahim Pasha, copy sent to Ferdinand I by Malvezzi",
+   "route": "Frater Georg (letter B: Corde, 6 June 1548; letter C: Vijuar, 2 July 1548) -> Ibrahim Pasha, copies sent to Ferdinand I by Malvezzi",
    "language": "Latin",
    "cleartext_in_document": "separate passages",
    "plaintext": {
     "location": [
      "separate folio"
     ],
-    "source": "The Latin exemplars B and C on f. 34 (image 5) and its continuation (image 6)."
+    "source": "The Latin exemplars B and C on f. 34 (images 5-6): texts/exemplar_7-4-5_B.txt, texts/exemplar_7-4-5_C.txt."
    },
    "length": {
     "tokens": "unknown",
@@ -59,9 +59,39 @@
     "by": "llm from images",
     "source": "AIS getimage.aspx, width 2400",
     "image_quality": "good",
-    "notes": "Cipher not yet transcribed. Exemplar C transcribed in texts/exemplar_7-4-5_C.txt."
+    "notes": "Four cipher copies (images 1-4: letter B twice, letter C twice) transcribed sign by sign from viewer screenshots, 30-31 Oct 2026 (transcription/r367/7-4-5_*_signs.txt); exemplar B transcribed (texts/exemplar_7-4-5_B.txt). One reader per copy; the exemplars were open as a check."
    },
-   "read": "not read"
+   "read": "read"
+  },
+  {
+   "id": "7-4-9",
+   "shelfmark": "Wien, Haus-, Hof- und Staatsarchiv, StAbt Türkei I 7-4-9 (AIS 7040845), f. 51-59",
+   "date": "26 August 1548 (letter); enclosures 22 and 28 July 1548",
+   "year": 1548,
+   "country": "Austria",
+   "route": "Giovanni Maria Malvezzi (Constantinople) -> Ferdinand I; enclosed copies of two Frater Georg letters to Ibrahim Pasha (Corde, 28 July; Monostor, 22 July 1548)",
+   "language": "Italian (letter); Latin (enclosures)",
+   "cleartext_in_document": "interspersed",
+   "plaintext": {
+    "location": [
+     "interlinear"
+    ],
+    "source": "A contemporary interlinear Italian decipherment over every cipher line of the original letter (texts/gloss_7-4-9_letter.txt). The replica and the two enclosures have none."
+   },
+   "length": {
+    "tokens": "unknown",
+    "distinct": "unknown",
+    "unit": "symbols",
+    "measured": false,
+    "file": "none"
+   },
+   "transcription": {
+    "by": "llm from images",
+    "source": "AIS bildansicht viewer, screenshots from a cloud browser (about 930-1565 px)",
+    "image_quality": "fair",
+    "notes": "Letter units L1-L6 and enclosures B and C transcribed sign by sign, 30-31 Oct 2026 (transcription/r367/7-4-9_*_signs.txt); the gloss transcribed separately and compared after each unit was read from the signs. The replica (f. 53-54) not transcribed. Sign counts not measured: the sign files mix formats."
+   },
+   "read": "read in part"
   }
  ],
  "system": {
@@ -69,7 +99,7 @@
    "homophonic",
    "nomenclator"
   ],
-  "summary": "Graphic-sign homophonic cipher with nulls and a code list, apparently the Ferdinand-Malvezzi key of 1548 (DECODE R367); not yet tested.",
+  "summary": "Graphic-sign homophonic cipher with nulls and a code list: the Ferdinand-Malvezzi key of 1548 (DECODE R367), which reads every copy.",
   "symbol_kind": "symbols",
   "distinct_symbols": "unknown",
   "diacritics": {
@@ -86,14 +116,14 @@
   },
   "key_order": "unknown",
   "word_division": "unknown",
-  "notes": "The first line of 7-4-4 f. 29 begins with the Latin-letter words Idcirco, b, d, which are nulls of the R367 key (../malvezzi1548/KEY_BRIEF.md); same sign repertoire on the page. Unverified until a line is decoded."
+  "notes": "R367 confirmed on all 14 cipher units (31 Oct 2026). This hand: crossed-tail 9 = r, smooth-tail 9 = x (KEY_BRIEF has them reversed); h-hook = n; lambda = h; plain Pi and Sha = g; footed circle = q; loose nulls also written inside words. Code groups not in R367: Mos, Mes, Mus, Ris, za, Ses, yu, 59, 68, Ko (meanings from the 7-4-9 gloss or context). See NOTES.md."
  },
  "conditions": {
   "prior_solution": {
-   "exists": "no",
-   "where": "No decipherment found in the repository, the DECODE list, the AIS descriptions or by web search (checked 29 Oct 2026). Austro-Turcica 1541-1552 pp. 276-278 not seen.",
-   "found": "not found",
-   "used": false
+   "exists": "in archive",
+   "where": "The Latin exemplars of 7-4-4 and 7-4-5 are filed with the cipher copies (f. 30, f. 34), and the 7-4-9 letter carries a contemporary interlinear decipherment. The 7-4-9 enclosures B and C have no plaintext here. No modern decipherment found (repository, DECODE, AIS, web, 29 Oct 2026); Austro-Turcica 1541-1552 not seen.",
+   "found": "during attempt",
+   "used": true
   },
   "inputs": [
    "images",
@@ -102,17 +132,19 @@
    "known plaintext"
   ],
   "attack": "sibling key",
-  "human_role": "Daniel Bourdeau asked for the target to be started after a contributor's pull request (#196) reported the images unreachable; no target-specific intervention.",
+  "human_role": "Harrison Bornstein reported the target and the candidate key (PR #196); Daniel Bourdeau reviewed it, pointed out that the scans are public, and asked for the sign test and R367 against the exemplars; Harry asked for the pass to be finished. No target-specific intervention in the reading.",
   "tools": [
+   "PIL",
+   "cloud browser",
    "curl",
-   "PIL"
+   "difflib"
   ],
   "models": [
    "claude-sonnet-5-5"
   ],
-  "sessions": 1,
+  "sessions": 2,
   "first_date": "2026-10-30",
-  "last_date": "2026-10-30"
+  "last_date": "2026-10-31"
  },
  "solution": [
   {
@@ -175,31 +207,249 @@
     "statistical test",
     "plaintext matching"
    ]
+  },
+  {
+   "date": "2026-10-30",
+   "kind": "access",
+   "what": "The container proxy refused archivinformationssystem.at; opened the AIS viewer anonymously in a cloud browser and took screenshots of all 22 images of 7-4-4, 7-4-5 and 7-4-9, one page at a time (about 930-1565 px, below the 2400 px scans).",
+   "result": "partial"
+  },
+  {
+   "date": "2026-10-30",
+   "kind": "hypothesis",
+   "what": "Compared sign shapes on f. 28, the 7-4-5 copies and 7-4-9 with k367.txt and KEY_BRIEF.md: the same repertoire and nulls throughout; the crossed-tail 9 is r and the smooth-tail 9 is x, as on f. 29.",
+   "result": "worked",
+   "technique": [
+    "key matching"
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "kind": "transcription",
+   "what": "f. 28 transcribed sign by sign (16 lines plus an interlinear header) and f. 29 re-checked at L01 and L11-L13.",
+   "result": "worked"
+  },
+  {
+   "date": "2026-10-30",
+   "kind": "reading",
+   "what": "Deciphered both 7-4-4 copies with R367: f. 28 enciphers the exemplar with its heading (not a longer text); f. 29 opens with 'replica'; the date clause reads 'Regni vero nostri ... ex commissione sacrae regiae Maiestatis propria'. 744A 84/94 read, 744D 82/92.",
+   "result": "worked",
+   "technique": [
+    "key matching",
+    "plaintext matching"
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "kind": "transcription",
+   "what": "Transcribed exemplar B (f. 34r foot, f. 34v) and the four 7-4-5 cipher copies; they are two letters (B 6 June, C 2 July) in two copies each, the 'Dupl.' dockets on images 3 and 4 swapped.",
+   "result": "worked"
+  },
+  {
+   "date": "2026-10-31",
+   "kind": "reading",
+   "what": "Deciphered the four 7-4-5 copies with R367: 745B 115/130, 745X4 111/132, 745C 104/121, 745X3 102/118 read; the copies fill exemplar B's torn edge. Two signs not in the key (z of Chazum, a triple-barred x).",
+   "result": "worked",
+   "technique": [
+    "key matching",
+    "plaintext matching"
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "kind": "transcription",
+   "what": "7-4-9: identified the original letter (Italian, cipher paragraphs L1-L6 with a contemporary interlinear decipherment), the replica, and enclosed copies B and C; transcribed the gloss and L1-L6 sign by sign.",
+   "result": "worked"
+  },
+  {
+   "date": "2026-10-31",
+   "kind": "reading",
+   "what": "Read L1-L6 from the signs before comparing the gloss: 424 words, 8 unread (7 small groups in L1, one blotted group in L2); new code groups Mos, Mes, Mus, Ris, za, Ses, yu, 59, 68 named from the gloss.",
+   "result": "worked",
+   "technique": [
+    "key matching"
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "kind": "reading",
+   "what": "Enclosed copy B: a third Frater Georg letter (Corde, 28 July 1548), not either exemplar; 106 tokens, 65 read, 41 unread (tear, small signs, N. and F.).",
+   "result": "partial",
+   "technique": [
+    "key matching"
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "kind": "reading",
+   "what": "Enclosed copy C, two passes: a fourth Frater Georg letter (Monostor, 22 July 1548) on the Sultan's tribute and the war near Eger; 214 tokens, 184 read, 30 unread (tear, ll. 16-23 at screenshot resolution, code Ko.).",
+   "result": "partial",
+   "technique": [
+    "key matching"
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "kind": "statistics",
+   "what": "Tried the README n-gram measure: gutenberg.org refused, so a stand-in 'la' corpus was built from Latin Library texts on GitHub. Calibration failed: malvezzi1548 scores 0.772 on it against 0.990 on the official corpus, so the n-gram figures here are low by about 20 points.",
+   "result": "failed",
+   "technique": [
+    "statistical test"
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "kind": "verification",
+   "what": "measure_sense.py: agreement with the external plaintext. 744/745, 687 words: 0.897 agree with the exemplar (0.940 with exemplar or n-gram); 749 letter, 395 plaintext words: 0.886 agree with the gloss (code words left out). Controls with letters shuffled within words: 0.108 and 0.034. Upper bounds: the exemplar and gloss were open to the reader.",
+   "result": "worked",
+   "technique": [
+    "plaintext matching",
+    "statistical test"
+   ]
   }
  ],
  "outcome": {
-  "class": "not read",
-  "key": "none",
-  "method": "not solved",
-  "method_basis": "Cipher not yet transcribed or decoded.",
+  "class": "read in part",
+  "key": "partial",
+  "method": "read after matching with key from external sources",
+  "method_basis": "The Ferdinand-Malvezzi key R367, filed in Budapest for a different letter (malvezzi1548), was matched to these Vienna copies by sign shape and nulls and applied; the Latin exemplars and the 7-4-9 interlinear decipherment were used as checks.",
+  "parts": [
+   {
+    "label": "7-4-4 and 7-4-5, six Latin copies of three letters",
+    "records": "7-4-4, 7-4-5",
+    "method": "read after matching with key from external sources",
+    "extent": "complete",
+    "basis": "every copy read; checked against the filed Latin exemplars"
+   },
+   {
+    "label": "7-4-9 letter, cipher paragraphs L1-L6 (Italian)",
+    "records": "7-4-9",
+    "method": "read after matching with key from external sources",
+    "extent": "complete",
+    "basis": "read from the signs; checked against the contemporary interlinear decipherment"
+   },
+   {
+    "label": "7-4-9 enclosed copies B and C (Latin, no exemplar)",
+    "records": "7-4-9",
+    "method": "read after matching with key from external sources",
+    "extent": "partial",
+    "basis": "65 of 106 and 184 of 214 tokens read; the rest at the tear or below screenshot resolution"
+   }
+  ],
   "verification": [
-   "none"
+   "independent clear copy",
+   "contemporary decipherment",
+   "key confirms"
   ],
   "fraction_read_method": "measured",
-  "fraction_read": 0.0,
-  "fraction_read_source": "no cipher token has a value yet",
+  "fraction_read": 0.8,
+  "fraction_read_source": "measure_sense.py on reading_full.txt (31 Oct 2026), 1,431 cipher words in 14 units: Latin units counted when they agree with the exemplar or pass the n-gram test (772/1,007), Italian letter units when they agree with the gloss or are code words (350 + 29 of 424): 1,151/1,431 = 0.80. Mark count (every token given a value) 1,333/1,431 = 0.93. Without the 7-4-9 enclosures: 1,151 - 126 = 1,025 of 1,111 = 0.92.",
+  "codes_open": {
+   "open": 4,
+   "total": 20
+  },
   "contribution": [
+   "transcription",
+   "key extended or corrected",
+   "sender or date identified",
    "catalogue correction"
   ],
   "credits": [
    {
     "who": "harrison-bornstein",
     "role": "pointer",
-    "note": "Report on catalogue 885 (PR #196) identified the Malvezzi key R367 as the candidate and the persons covered by its code words.",
+    "note": "Report on catalogue 885 (PR #196) identified the Malvezzi key R367 as the candidate and the persons covered by its code words; the R367 pass over every copy was done on that PR.",
     "date": "2026-10-29",
     "source": "https://github.com/dbourdeau/cyphersolver/pull/196"
+   },
+   {
+    "who": "decode",
+    "role": "key or decipherment used",
+    "note": "key reconstruction DECODE R367 (second copy R386), Ferdinand-Malvezzi 1548, applied to every copy"
+   },
+   {
+    "who": "contemporary",
+    "role": "verification",
+    "note": "interlinear Italian decipherment over the cipher of the 7-4-9 letter, used to check L1-L6 and to name the code groups not in R367"
    }
   ],
-  "notes": "In progress."
+  "gaps": [
+   {
+    "item": "7-4-9 enclosed copy B, 36 groups in ll. 4-11",
+    "blocker": "illegible",
+    "detail": "small crowded signs at screenshot resolution; the 2400 px scan should resolve most"
+   },
+   {
+    "item": "7-4-9 enclosed copy C, l. 16 in part, l. 17, start of l. 18, names in ll. 19-20, a pair in l. 23",
+    "blocker": "illegible",
+    "detail": "same resolution limit"
+   },
+   {
+    "item": "7-4-9 B and C, top left of both leaves",
+    "blocker": "needs-physical-access",
+    "detail": "paper torn away; no other copy of these letters filed here"
+   },
+   {
+    "item": "7-4-9 code groups N., F. (B), Ko., Ta. (C)",
+    "blocker": "open-codes",
+    "detail": "not in R367, no gloss"
+   },
+   {
+    "item": "7-4-9 replica, f. 53-54",
+    "blocker": "not-attempted",
+    "detail": "duplicates the glossed letter; matched to L1-L6 by position only"
+   },
+   {
+    "item": "7-4-9 L1, opening on f. 51r and 7 small groups",
+    "blocker": "illegible",
+    "detail": "f. 51r is outside image 1; small signs"
+   },
+   {
+    "item": "scattered unread tokens in 7-4-4 (6), 7-4-5 (13) and 7-4-9 L2 (1 blot)",
+    "blocker": "illegible",
+    "detail": "blots, torn edge of 745C, superscript marks"
+   },
+   {
+    "item": "7-4-5 signs not in the key: z of Chazum, a triple-barred x",
+    "blocker": "open-codes"
+   }
+  ],
+  "texts": [
+   {
+    "doc": "7-4-4",
+    "transcription": [
+     "transcription/r367/f28_signs.txt",
+     "transcription/f29_lines_01-07.txt",
+     "transcription/f29_lines_08-13.txt"
+    ],
+    "decryption": "reading_full.txt"
+   },
+   {
+    "doc": "7-4-5",
+    "transcription": [
+     "transcription/r367/7-4-5_B_signs.txt",
+     "transcription/r367/7-4-5_X4_signs.txt",
+     "transcription/r367/7-4-5_C_signs.txt",
+     "transcription/r367/7-4-5_X3_signs.txt"
+    ],
+    "decryption": "reading_full.txt"
+   },
+   {
+    "doc": "7-4-9",
+    "transcription": [
+     "transcription/r367/7-4-9_L1_signs.txt",
+     "transcription/r367/7-4-9_L2_signs.txt",
+     "transcription/r367/7-4-9_L3_signs.txt",
+     "transcription/r367/7-4-9_L4_signs.txt",
+     "transcription/r367/7-4-9_L5_signs.txt",
+     "transcription/r367/7-4-9_L6_l1-3_signs.txt",
+     "transcription/r367/7-4-9_L6_signs.txt",
+     "transcription/r367/7-4-9_B_signs.txt",
+     "transcription/r367/7-4-9_C_signs.txt"
+    ],
+    "decryption": "reading_full.txt"
+   }
+  ],
+  "notes": "In progress: the 7-4-9 enclosures B and C need the full-resolution scans, and the replica is not transcribed."
  }
 }

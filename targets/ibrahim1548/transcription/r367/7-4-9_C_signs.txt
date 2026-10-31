@@ -1,0 +1,66 @@
+# 749 enclosed cipher copy C, img8 (docket "Dupl. 1548.22.c", p. 56). 28 cipher lines (not 30); the top left is
+# torn away (lines 1-5 lack their left part). Second pass 31 Oct 2026: all 28 lines transcribed from
+# 749_img8_s1..s8 (stitched; zoom 2.5-5x). Sign names as in KEY_BRIEF; value in ( ) where read; ? = doubtful.
+# Conventions of this hand used: o7/σ (small o + 7) = i; ϙ = plain circle-on-stem (u/e/t/o/d by context);
+# ϙ̊ = circle-on-stem with second small circle at the foot (e/o/d/t/c/r by context); ♀ = with cross = t;
+# ʛ = g-with-tail = r (once i); 8/ϑ = 8-shape (d, or q as in quod/quingentesimo); § looped g = o;
+# υ = small cup (l) or tall-left cup (g); ^ (read before as λ) = f in filium; h = hooked n; °P = o;
+# π with stub = s, plain Π = g; Ш (u-shape with base) = g; "eʃ." = null group (also in the closing nulls).
+# Nulls in ( ): atq spo spu etiam Der, loose b d n z π Π. and eʃ.
+# Lines 1-8: first pass kept, corrected where the second look changed a value (marked *).
+
+C l1 | [torn] atq spo . n (nulls) | ϙ̦(e) 9(x) #o(e) f(m) ⊥(p) υ(l) ϙ̃(u) f(m) | υ(l) Γ(i) ♀(t) ϙ̦(e) ʛ(r) =(a) e(r) ϙ(u) f(m)
+C l2 | [torn] ♀(t) e(r) o7(i) 13(ss) n(null) o7(i) f(m) ϙ̦(e) | 8(d) ∂(o) F(m) 7(i) h(n) K(e) | ⊙(d) °P(o) b(null) . f(m) Γ(i) π.(null) h(n) #o(e) |
+       f(m) Γ(i) +(c) λ(h) o7(i)
+C l3 | [torn] ϙ(u) o7(i) ♁(t) Γ(i) ∂(o) e(r) -o(u) f(m) | z.(null) | F(m) ϙ̦(e) °P(o) ʛ(r) ϙ(u) f(m) |
+       ‡(c) ∂(o) f(m) K(e) P(n) ϙ̦(d) =(a) ♀(t) Γ?(i) °P(o) h(n) ϙ̦(e) F(m) | etiam . d f n. (nulls?) | =? o7 K  [unread]
+C l4 | f(m) Γ(i) P(n) -o(u) a(s) | F(m) K(e) ϙ(u) π(s) | ⊥(p) °P(o) ♀(t) K(e) h(n) ♀(t) 7(i) 13(ss) d.(null) Γ(i) f(m) o-(u) a(s) | Δ(et) |
+       ‡(c) ∩(l) ϙ̦(e) n.(null) F(m) K(e) P(n) ♀(t) Γ(i) b(null) 13(ss) z(null) Γ(i)  [rest torn / l5]
+C l5 | [torn] ϙ̦ -o ϙ ♀ o7 P [unread] | §(o) f(m) h(n) Γ(i) ɔ(b) o-(u) π(s) | h(n) #o(e) ‡(c) ϙ̦(e) z(null) 13(ss) n(null) Γ(i) ϙ̦(t) =(a) ♀(t) o7(i) c(b) o-(u) a(s) |
+       F(m) K(e) Γ(i) π(s) | ∇(et) | Γ(i) h(n) | °P(o) f(m) P(n) Γ(i) ...
+C l6 | ʛ ϙ̊ ⊙ ϙ ʃ π = ♀ ʛ g n [torn gap; unread] | ϙ(u) #o(e) π(s) ϙ̦(t) ‡?(r? slip) M?(a) f(m) | o7(i) 7(ll) ϙ(u) 13(ss) eʃ?(tr? slip) ϙ̦ e Γ π o7 F(m) =(a) d(null) f(m) |
+       a(s) K(e) f(m) T(p) ϙ̦(e) e(r) | =(a) ϙ(u) ϙ̊(t) | ⊥(p) K(e) ʛ(r) | υ(l) Γ(i) 12(tt) K(e) e(r) =(a) a(s)
+C l7*| M(a) o-(u) ♀(t) | ⊥(p) #o(e) ʛ(r) | h(n) ϙ(u) P(n) b.(null) ϙ̊(c) Γ(i) ∂(o) π(s) | +(c) ϙ̊(o) h(n) ϙ(u) K(e) h(n) Γ(i) e(r) ϙ̊(e) F(m) |
+       ‡(c) o-(u) f(m) | =(a) ϙ(u) ♀(t) K(e) f(m) | ϙ̊(t) K(e) F(m) ⊥(p) -o(u) a(s) | o7(i) M(a) f(m) | n(null) f?(null?) v(f) ϙ(u) 7(i) 13(ss) Π.(null) K(e) ♀(t) |
+       =(a) ϙ̊(d) | ♉(q) n.(null) o-(u) ∂(o) ⊙(d)
+C l8*| +(c) ϙ̊(e) P(n) π(s) ϙ(u) f(m) | T(p) °P(o) ♀(t) K(e) P(n) ϙ̊(t) 7(i) 13(ss) z(null) Γ(i) d.(null) F(m) o7(i) | ‡(c) #o(e) 13(ss) b.(null) =(a) e(r) o7(i) a(s) |
+       Γ(i) h(n) ϙ̊(t) e(r) ∂(o) f(m) 7(i) 12(tt) K(e) ʛ(r) ϙ(e) | ϙ̊(d) #o(e) ɔ(b) K(e) f(m) o-(u) π(s) | ⊙(d) °P(o) f(m) Γ(i) h(n) =(a) ‡(t? c for t) Γ(i) °P(o)
+C l9 | ϙ(u) K(e) a(s) ϙ̊(t) e(r) M(a) | o7(i) 7(ll) o-(u) π(s) ‡(t) e(r) Γ(i) 13(ss) Π.(null) 7(i) F(m) #(a) | P(n) -o(u) h(n) ϙ(c) Γ(i) K(e) ‡(t) | f(m) 7(i) +(c) λ(h) Γ(i) |
+       h(n) ϙ(u) P(n) ‡(c) | T(p) K(e) e(r) | λ(h) o-(u) h(n) +(c) | π(s) K(e) e(r) o-(u) ϙ(u) f(m) | F(m) ϙ(e) -o(u) f(m) | a(s) 7(i)
+C l10| +(c) #o(e) h(n) π(s) ϙ(u) F(m) | ⊥(p) °P(o) ♀(t) K(e) P(n) ‡(c) 7(i) 13(ss) b.(null) 7(i) d.(null) F(m) Γ(i) | ‡(c) ϙ(e) 13(ss) eʃ(null) =(a) ʛ(r) Γ(i) a(s) |
+       o7(i) P(n) ϙ̊(t) e(r) ∂(o) f(m) Γ(i) 12(tt) ϙ(e) ϙ(r?) K(e) | ϙ̊(d) #o(e) ɔ(b) ϙ(e) F(m) ϙ(u) π(s) | M(a) ⊙(d) | ϙ̊(d) ϙ(o) f(m) 7(i) h(n) #(a)
+C l11| ϙ̊(t) Γ(i) ∂(o) P(n) K(e) f(m) | -o(u) K(e) a(s) ϙ̊(t) e(r) =(a) F(m) | o7(i) 7(ll) ϙ(u) a(s) ϙ̊(t) e(r) Γ(i) 13(ss) n.(null) 7(i) F(m) =(a) f(m) | o-(u) #o(e) υ(l) |
+       M(a) ϙ̊(d) | π(s) ϙ̊(e) e(r) K(e) h(n) 7(i) 13(ss) d(null) Γ(i) f(m) ϙ(u) F(m) | ⊥(p) ∂(o) ♀(t) #o(e) P(n) ϙ̊(t) Γ(i) 13(ss) z.(null) 7(i) f(m) Γ(i)
+C l12| o7(i) F(m) ⊥(p) ϙ(e) e(r) =(a) ♀(t) °P(o) ʛ(r) Γ(i) π(s) | ^(f; λ-like) Γ(i) υ(l) 7(i) o-(u) f(m) | ⊙(d) °?(i?) e(r) Γ(i) υ(g) o7(?) #o(e) ʛ(r) K(e) |
+       ϙ̊(d) ϙ(e) ɔ(b) K(e) =(a) F(m) | K(e) Π(g) °P(o) | #o(e) h(n) Γ(i) f(m) | a(s) 7(i) P(n) ϙ(e) | π(s) Γ(i) ♀(t) o-(u) | Δ(et) | +(c) ∂(o) P(n) a(s)
+C l13| Γ(i) 7(l) o7(i) °P(o) | ⊙(d) ∂(o) F(m) 7(i) h(n) =(a) ‡(c) Γ(i) °P(o) P(n) 7(i) π(s) | o-(u) K(e) a(s) ϙ̊(t) e(r) ϙ(e) | o7(i) 7(ll) ϙ(u) π(s) ϙ̊(t) e(r) Γ(i) 13(ss) Π.(null) Γ(i) F(m) ϙ(e) |
+       v(f) =(a) +(c) K(e) e(r) #o(e) | P(n) ∂(o) υ(l) °P(o) | ϙ̃(q) n.(null) ϙ(u) K(e) f(m) =(a) ϙ̊(d) f(m) ∂(o)
+C l14| ⊙(d) ϙ(u) f(m) | ϙ̊(d) °P(o) F(m) b.(null) Γ(i) h(n) =(a) ♀(t) 7(i) °P(o) h(n) 7(i) | -o(u) ϙ(e) a(s) ϙ̊(t) e(r) K(e) | z(null) | o7(i) 7(ll) o-(u) a(s) ϙ̊(t) e(r) Γ(i) 13(ss) d(null) Γ(i) π.(null) f(m) #o(e) |
+       T(p) ʛ(r) Γ(i) -o(u) π(s) | ∝(q) n.(null) o-(u) #o(e) | a(s) ‡(c) e(r) 7(i) ⊥(p) π(s) K(e) e(r)
+C l15| =(a) f(m) | 50(bellum) . | υ(g) K(e) e(r) F(m) M(a) P(n) 7(i) ‡(c) o-(u) f(m) | #(a) ⊙(d) ϙ(u) +(c) | 7(i) h(n) | z i.(code zi) | #o(e) π(s) ϙ̊(t) |
+       =(a) e(r) +(c) K(e) f(m) ∝(q) b.(null) ϙ(u) ϙ̊(e) | M(a) υ(g) ϙ(r?) 7(i) ϙ(e) h(n) a(s) #o(e) F(m) | ⊙(d) K(e) ‡(c) 7(i) f(m) =(a) | a(s) ϙ(e) 9?(x; read e) ♀(t) #(a)
+C l16| N(dies sign) | f(m) K(e) P(n) a(s) 7(i) π(s) | +? Γ ∂ υ Γ 7 [unread; Iulii?] | υ ʛ ϙ̊ + #o T ♀ [unread; ..recept-?] | Δ(et) | υ(l) o7(i) : ‡(c) K(e) ϙ̊(t) | =(a) ϙ(u) ♀(t) K(e) f(m) |
+       8 eʃ -o 7 ϙ ‡ K π + Γ ♀ [unread; q-u-i-e-c-e-s-c-i-t] | P(n) 7(i) ‡(c) λ(h) o7(i) ∩(l) | ∝ ϙ K [unread]
+C l17| λ ∂ π | ϙ̊ 7 υ Γ ϙ | = ϙ̊ o7 a M υ | = h ϙ | atq. spu. (nulls) | ϙ̊ o7 + ϙ P ϙ̊ ♀ = | f K h ⊥ υ o- ϙ K a | ∂ ϑ b. ϙ M ⊙ #o ϙ̊ P π ϙ K h o7 ʛ ϙ   [whole line unread]
+C l18| P λ K ‡ a = ϙ̊ o7 π [unread] | +(c) °P(o) P π(g?) h(n) ∂(o) a(s) Γ(i) [cognosi] | T(p) ∂(o) ϙ(t) K(e) a(s) ϙ̊(t) | ∝(q) Π.(null) o-(u) 7(i) ϙ̊(d) | =(a) Ш(g) #o(e) ϙ̊(r) ϙ(e) |
+       -o(u) K(e) ∩(l) Γ(i) P(n) ϙ̊(t) | o7(i) ϙ̊(t) =(a) ϑ(q) n.(null) ϙ(u) ϙ(e) | ⊙(d) ∂(o) F(m) 7(i) P(n) =(a) ϙ̊(t) Γ(i) °P(o)
+C l19| o-(u) #o(e) a(s) ϙ̊(t) e(r) ϙ(a? read e) | ‡ d. (null?) | o7(i) 7(ll) ϙ(u) a(s) ϙ̊(t) e(r) Γ(i) 13(ss) z.(null) Γ(i) f(m) =(a) | π(s) ‡(c) ʛ(r) Γ(i) ɔ(b) M(a) ϙ(t) | =(a) ϙ̊(d) | K o. (code? unread) | K a.(code ka) |
+       ∇(et) | M(a) ⊙(d) | ∂ + ϙ ϙ K λ a ϙ F [unread] | K a.(code ka) | Δ(et) | = ⊙ ϙ M o7 o- ∂
+C l20| ϙ M a T Γ . [unread, with l19 end] | Δ(et) | T a . [unread; code?] | υ(l) 7(i) 12(tt) K(e) ‡(r? slip) #(a) a(s) ∝(q) b.(null) ϙ(u) #o(e) | π(s) o-(u) M(a) a(s) | =(a) ʛ(d? slip) | 7(i) 7(ll) ϙ(o) π(s) |
+       a(s) ‡(c) e(r) Γ(i) ɔ(b) M(a) ϙ(t) | #(a) ϙ(t) 8(q) z d.(nulls) o-(u) ϙ(e) | ⊥(p) K(e) e(r) | λ(h) o-(u) h(n) +(c) | a(s) K(e) g/ʛ(r) o-(u)
+C l21| ϙ(u) F(m) | f(m) ϙ(e) o-(u) f(m) | ⊙(d) ϙ(o) P eʃ.(null group, "Der"-like) F(m) Γ(i) P(n) =(a) ♀(t) o7(i) °P(o) | -o(u) K(e) π(s) ϙ(t) g/ʛ(r) M(a) |
+       o7(i) 7(ll) o-(u) a(s) ♀(t) e(r) Γ(i) 13(ss) Π.(null) Γ(i) f(m) #(a) | F(m) o7(i) 12(tt) ϙ̊(e) e(r) #o(e) | ϙ(u) K(e) ∩(l) Γ(i) ϙ̊(t) | -o(u) ♀(t) | π(s) Γ(i) | P(n) ϙ̊(e) ‡(c) K(e) 13(ss) #o(e)
+C l22| v(f) ϙ(u) K(e) e(r) Γ(i) ϙ̊(t) | λ(h) ∂(o) F(m) o7(i) h(n) ϙ(e) f(m) | T(p) K(e) ʛ(r) Γ(i) π(null) ϙ(t) o-(u) f(m) | F(m) ϙ̊(e) ϙ(u) f(m) | a(s) ϙ̊(t) =(a) ♀(t) Γ(i) F(m) | Δ(et) |
+       ‡(c) 7(i) ϙ̊(t) Γ(i) 13(ss) Π.(null) 7(i) f(m) #o(e) | +(c) ϙ(u) f(m) | υ(l) 7(i) 12(tt) K(e) e(r) Γ(i) a(s) | π(s) o-(u) 7(i) a(s)
+C l23| M(a) ϙ̊(d) | f(m) ϙ̊(e) n.(null) | F(m) o7(i) 12(tt) z.(null) #o(e) ϙ(t) | K ϙ ϙ υ Γ ♀ -o ϙ (unread) | °P(o) f(m) P(n) K(e) F(m) | ∂(o) 3(cc) =(a) a(s) Γ(i) ϙ(o) h(n) #o(e) f(m) |
+       υ(l) Γ(i) 12(tt) d(null) ϙ(e) ʛ(r) Γ(i) π(s) | ⊙(d) ∂(o) F(m) o7(i) P(n) =(a) ϙ̊(t) Γ(i) °P(o) h(n) 7(i) π(s)
+C l24| ϙ(u) #o(e) d.(null) a(s) ϙ̊(t) e(r) ‡?(e? slip) | o7(i) 7(ll) 7? o-(u) π(s) ‡(t) e(r) Γ(i) 13(ss) n.(null) Γ(i) f(m) #o(e) | ϙ(e) 13(ss) K(e) | ⊥(p) °P(o) b.(null) 13(ss) z.(null) 7(i) F(m) o-(u) a(s) |
+       ⊙(d) K(e) ϙ(u) π(s) | ϙ̊(d) ∂(o) f(m) Γ(i) P(n) =(a) ♀(t) Γ(i) °P(o) h(n) K(e) f(m) | -o(u) #o(e) a(s) ϙ(t) ϙ̊(r)
+C l25| #(a) F(m) | o7(i) 7(ll) ϙ(u) a(s) ϙ(t) e(r) Γ(i) 13(ss) o7(i) F(m) M(a) f(m) | ‡(c) °P(o) P(n) P?(null?) π(s) K(e) e(r) o-(u) #o(e) ϙ̊(t) | ʛ(i) h(n) +(c) ϙ̊(o) υ(l) o-(u) f(m) ϙ(e) F(m) |
+       N (unread: key's 'dies' sign, here opening the date) | o7(i) P(n) | f(m) ∂(o) h(n) °P(o) π(s) π?(null) ϙ̊(t) °P(o) ʛ(r) | N(dies) | ϙ(u) 7(i) u/Ш(g) K(e) a(s) Γ(i)
+C l26| f(m) ∂(o) | π(s) #o(e) +(c) ϙ(u) h(n) ϙ̊(d) ϙ̊(o) | f(m) K(e) h(n) a(s) Γ(i) a(s) | o7(i) o-(u) υ(l) o7(i) Γ(i) Π.(null) | F(m) 7(i) 7(ll) #o(e) a(s) Γ(i) f(m) ϙ(o) |
+       8(q) eʃ.(null) -o(u) Γ(i) P(n) Ш(g) ϙ(e) h(n) ϙ̊(t) #o(e) 13(ss) b(null) o7(i) F(m) ϙ(o) | ∝(q) d.(null?) ϙ(u) =(a) ϙ̊(d) e(r) #(a) Π(g) K(e) 13(ss)
+C l27| z.(null) o7(i) f(m) ∂(o) | ϙ̊(o) ‡(c) ϙ̊(t) =(a) ϙ(u) °P(o) | Δ(et) | υ(l) ∂(o) +(c) ϙ̊(o) | a(s) ϙ(u) °P(o) | #o(e) 7(i) o-(u) a(s) ϙ̊(d) K(e) F(m) |
+       ⊙(d) ∂(o) f(m) 7(i) h(n) #(a) ϙ̊(t) Γ(i) °P(o) h(n) 7(i) π(s) | o-(u) #o(e) a(s) ϙ̊(t) e(r) ϙ(e) | 7(i) 7(ll) ϙ(u) a(s) ϙ̊(t) e(r)
+C l28| o7(i) 13(ss) Γ(i) f(m) ϙ̊(e) | π(s) K(e) ʛ(r) -o(u) Γ(i) ϙ̊(t) ∂(o) e(r) | zos.(code) | #o(e) T(p) Γ(i) a(s) +(c) ϙ̊(o) ⊥(p) ϙ(u) a(s) |
+       -o(u) =(a) ʛ(r) M(a) e(r)?(extra) #(a) ⊙(d) 7(i) ϙ(e) h(n) π(s) o7(i) a(s) | atq. Der. b. n. Π. eʃ. z. (closing nulls)

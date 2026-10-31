@@ -1,0 +1,61 @@
+# 749 letter unit L2, original letter, img2 left page (fol. 51v), 15 cipher lines, from 749_img2_s2..s5.png
+# (crops at 2.2-4x). Sign names as in KEY_BRIEF / k367.txt with this hand's corrections (749_notes.md).
+# "|" = word split; value after each sign in (); ? = doubtful sign; "quoted" = null or code group.
+# The gloss (749_gloss.txt) was used only as a check; disagreements are listed in 749_notes.md.
+
+L2 l01 | "idcirco" "cum" "π" "n" | a(s) ‡(c) e(r) o7(i) ϙ(u) #o(e) => scriue | #(a) h(n) ‡(c) λ(h) ∂(o) ϙ̦x(r) =(a) => anchora |
+         ⊙(d) K(e) 12(tt) ∂(o) => detto | =(a, written above) e(r) M(a) f(m) °P(o) h(n) => aramon | "Bi." => <Rex Galliae> |
+         υ(l) ϙ(e) 8(q) ϙ(u) =(a) ∩(l) K(e) => lequale | υ(l) #o(e) 12(tt) K(e) e(r) ϙ(e) => lettere
+L2 l02 | ‡(c) M(a) F(m) ɔ(b) e(r) =(a) o7(i) => cambrai | υ(l) K(e) => le | λ(h) M(a) => ha | #(a) T(p) K(e) ϙ̦x(r) ♀(t) K(e) => aperte |
+         Δ(et) | ∩(l) #o(e) 12(tt) ϙ(e) => lette | K(e) υ(l) => el | ♀(t) ϙ(e) h(n) ϙ̦(o) e(r) K(e) => tenore |
+         ϙ̦(d) #o(e) 7(ll) ϙ̥(e) α(q) -o(u) M(a) υ(l) K(e) => dellequale | o7(i) P(n) => in |
+         a(s) o-(u) π(s) ♀(t) =(a) h(n) ♀(t) Γ(i) #(a) => sustantia
+L2 l03 | a(s) 7(i) => si | #o(e) => e | 8(q) ϙ(u) K(e) π(s) ♀(t) °P(o) => questo | +(c) Γ(i) ∂(o) ϙ̥(e) => cioe | ‡(c) λ(h) #o(e) => che |
+         a(s) ϙ(u) =(a) => sua | +(c) λ(h) e(r) 7(i) a(s) ♀(t) Γ(i) M(a) h(n) 7(i) 13(ss) Γ(i) f(m) #(a) => christianissima |
+         F(m) =(a) ϙ(e) π(s) ♀(t) M(a) => maesta | h(n) ∂(o) P(n) => non | a(s) 7(i) => si |
+         f(m) M(a) ϙ̦x(r) =(a) o-(u) 7(i) ⊔(g) υ(l) 7(i) #o(e) => marauiglie
+L2 l04 | a(s) ϙ(e) => se | v(f) °P(o) e(r) π(s) Γ(i) => forsi | =(a) => a | a(s) -o(u) M(a) => sua | f(m) #(a) K(e) a(s) ♀(t) =(a) => maesta |
+         ⊥(p) M(a) ϙ̦x(r) K(e) 13(ss) #o(e) => paresse | +(c) λ(h) ϙ̥(e) => che | ⊙(d) K(e) 12(tt) °P(o) => detto |
+         M(a) e(r) #(a) f(m) ∂(o) h(n) => aramon | ^(f, λ-shape) =(a) +(c) K(e) 13(ss) #o(e) => facesse |
+         Π?(g, blotted) e(r) M(a) P̊(n) ϙ̦(d) K(e) => grande | a(s) ⊥(p) K(e) a(s) ϙ̥(e) => spese
+L2 l05 | Δ(et) | F(m) M(a) ⊔(g) 7(i) P̥(o) ϙ̦x(r) #o(e) => magiore | ⊙(d) K(e) υ(l) => del | ⊥(p) =(a) 13(ss) #(a) ♀(t) ∂(o) => passato |
+         f(m) M(a) ϙ(x, smooth tail) 7(i) F(m) ϙ̥(e) => maxime | T(p) K(e) e(r) => per | ʒ/∩(l) =(a) => la |
+         ⊥(p) ϙ̦x(r) δ(o) ϙ(u) 7(i) a(s) Γ(i) ∂(o) h(n) #o(e) => prouisione | v(f) M(a) 12(tt) #(a) => fatta | ϙ̦(d) =(a) => da |
+         K(e) 13(ss) °P(o) => esso | M(a) e(r) = (a) || (l06) f(m) ∂(o) P(n) => aramon
+L2 l06 | ⊥(p) ϙ(e) e(r) => per | ^(f) =(a) ϙ̦x(r) K(e) => fare | α(q) -o(u) #o(e) π(s) ♀(t) °P(o) => questo | ϙ(u) 7(i) =(a) 6(gg) Γ(i) ∂(o) => uiaggio |
+         ϙ̦(d) K(e) => de | "yu." => <Persia> | K(e) υ(l) => el | δ(q) o-(u) M(a) ∩(l) => qual | -o(u) 7(i) =(a) 6(gg) 7(i) P(o) => uiaggio |
+         #o(e) => e | ⊙(d) ϙ(e) => de | ⊔(g) e(r) =(a) h(n) ϙ̦(d) Γ(i) 13(ss) 7(i) f(m) #(a) => grandissima
+L2 l07 | a(s) T(p) K(e) π(s) M(a) => spesa | ∇(et) | ‡(c) λ(h) ϙ(e) => che | υ(l) =(a) => la | +(c) M(a) e(r) K(e) a(s) ♀(t) Γ(i) #(a) => carestia |
+         #ϙ(=#o, e) => e | ⊔(g) ϙ̦x(r) =(a) h(n) ϙ̦(d) K(e) => grande | P(n) ϙ(e) υ(l) => nel | "59." => <exercito> |
+         ⊙(d) #o(e) ∩(l) => del | "Ras." => <Imperator Turcorum> | Δ(et) | ‡(c) λ(h) ϙ̥(e) => che | +(c) 7(i) e(r) ‡(c) M(a) => circa |
+         7(i) ∩(l) => il | e(r) #o(e) a(s) δ̶(t) ∂?(o) => resto
+L2 l08 | ϙ̦(d) K(e) 7(ll) ϙ̥(e) => delle | +(c) °P(o) π(s) K(e) => cose | ⊙(d) 7(i) => di | a(s) -o(u) #(a) => sua |
+         +(c) λ(h) e(r) 7(i) a(s) δ̶(t) Γ(i) M(a) h(n) 7(i) 13(ss) Γ(i) f(m) M(a) => christianissima | F(m) #(a) K(e) a(s) ♀(t) =(a) => maesta |
+         +(c) ϙ̦(o) υ(l) => col | "Ras." => <Imperator Turcorum> | P̥(o) ⊔(g) h(n) 7(i) => ogni | ‡(c) °P(o) a(s) =(a) => cosa |
+         T(p) M(a) 13(ss) =(a) || (l09) e(r) M(a) => passara
+L2 l09 | ɔ(b) ϙ(e) P(n) #o(e) => bene | ∇(et) | π(s) K(e) +(c) ∂(o) h(n) ⊙(d) °P(o) => secondo | υ(l) =(a) => la |
+         ϙ(u) ∂(o) ∩(l) o-(u) h(n) ♀(t) M(a) => uolunta | ϙ̦(d) K(e) => de | a(s) o-(u) M(a) => sua | f(m) =(a) K(e) a(s) δ̶(t) #(a) => maesta |
+         Δ(et) | +(c) λ(h) #o(e) => che | 8(q) ϙ(u) =(a) P(n) ϙ̦(d) ∂(o) => quando | ⊥(p) M(a) e(r) δ̶(t) 7(i) => parti | ⊙(d) #(a) => da
+L2 l10 | "za." => <Constantinopoli> | ‡(c) λ(h) ϙ̥(e) => che | λ(h) =(a) o-(u) K(e) -o(u) M(a) => haueua |
+         ∪(l) #(a) 13(ss) =(a) ♀(t) P̥(o) => lassato | -o(u) 7(i) h(n) δ̶(t) Γ(i) => uinti | o-(u) #o(e) ∩(l) K(e) => uele |
+         M(a) ϙ̦x(r) f(m) =(a) ♀(t) ϙ̥(e) => armate | ‡(c) ∂(o) h(n) => con | ⊙(d) e(r) ϙ̦(o) ⊔(g) o-(u) δ̶(t) => drogut |
+         a(s) ϙ(u) ∪(l) => sul | [ink blot over one group, then "."] => unread | Δ(et) | =(a) ∪(l) ϙ̥?(t) e(r) #o(e) => altre
+L2 l11 | ϙ(u) 7(i) P(n) ♀(t) K(e) => uinte | Π(g) =(a) ∩(l) ϙ(e) e(r) K(e) => galere | M(a) e(r) f(m) #(a) ♀(t) K(e) => armate |
+         ‡(c) °P(o) h(n) => con | "Ses." => <Salih Reis> | ∇(et) | ‡(c) λ(h) #o(e) => che | ♀(t) o-(u) 12(tt) #(a) => tutta |
+         -o(u) 7(i) M(a) => uia | a(s) ϙ(e) => se | ‡(c) M(a) υ(l) =(a) v(f) #(a) ϙ̦(t, with bar) =(a) ϙ(u) M(a) => calafataua | Δ(et) |
+         π(s) ϙ̥(e) => se
+L2 l12 | M(a) e(r) f(m) =(a) o-(u) #(a) => armaua | 7(i) υ(l) => il | e(r) #o(e) a(s) δ̶(t) P̥(o) => resto |
+         ⊙(d) K(e) 7(ll) ϙ̥(e) => delle | "68." => <code number, gloss "Triremes(?)"> | ϙ̦(d) K(e) ∩(l) => del | "Ras." => <Imperator Turcorum> |
+         ⊥(p) ϙ(e) ϙ̦x(r) => per | F(m) M(a) h(n) ϙ̦(d) =(a) e(r) υ(l) #o(e) => mandarle | v(f) δ(o) e(r) #(a) => fora | M(a) => a |
+         ϙ̦(o) ⊔(g) h(n) 7(i) => ogni | e(r) K(e) δ(q) o-(u) Γ(i) a(s) Γ(i) ♀(t) Γ(i) || (l13) °P(o) h(n) K(e) => requisitione
+L2 l13 | ⊙(d) ϙ(e) => de | π(s) ϙ(u) =(a) => sua | F(m) M(a) #o(e) a(s) ♀(t) #(a) => maesta |
+         +(c) λ(h) e(r) Γ(i) π(s) ♀(t) 7(i) =(a) h(n) 7(i) 13(ss) Γ(i) F(m) M(a) => christianissima | "Π." (loose sign + point; null?) | Δ(et) |
+         ‡(c) λ(h) #o(e) => che | a(s) ϙ(e) => se | 7(i) υ(l) => il | "Ris." => <Venetian bailo> | P(n) ϙ̦(o) h(n) => non |
+         λ(h) =(a) ϙ(u) K(e) 13(ss) ϙ̥(e) => hauesse | v(f) =(a) 12(tt) ϙ̦(o) => fatto
+L2 l14 | f(m) M(a) υ(l) 7(i) 13(ss) Γ(i) F(m) P̥(o) => malissimo | ∂(o) 5(ff) o7(i) ♀(t) Γ(i) °P(o) => offitio | P(n) (one extra sign) |
+         +(c) ∂(o) P(n) δ̶(t) e(r) =(a) => contra | π(s) o-(u) M(a) => sua |
+         ‡(c) λ(h) ϙ̦x(r) a(s) ♀(t) 7(i) M(a) h(n) Γ(i) 13(ss) Γ(i) f(m) #(a) => christianissima | F(m) M(a) K(e) a(s) δ̶(t) =(a) => maesta |
+         +(c) λ(h) #o(e) => che | υ(l) ϙ̥(e) => le | ‡(c) ∂(o) π(s) K(e) => cose
+L2 l15 | α(q) ϙ(u) K(e) a(s) ♀(t) P̥(o) => questo | λ(h) =(a) 16(nn) P̥(o) => hanno | M(a) h(n) ϙ̦(d) #(a) o-(u) =(a) P(n) ϙ̦(o) => andauano |
+         f(m) #o(e) ⊔(g) ∩(l) 7(i) P(o) => meglio | Δ(et) | +(c) λ(h) ϙ(e) => che | #o(e) ∩(l) => el | "Ras." => <Imperator Turcorum> |
+         h(n) ϙ̦(o) P(n) => non | =(a) h(n) ⊙(d) M(a) o-(u) #(a) => andaua | 7(i) P(n) => in | "yu." => <Persia> | "e." "d." "z." (nulls)

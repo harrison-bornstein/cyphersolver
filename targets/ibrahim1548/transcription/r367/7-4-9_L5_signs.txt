@@ -1,0 +1,25 @@
+# 749 letter unit L5, original letter, img2 right page (fol. 52r), 5 cipher lines (the gloss's "6th line" is the
+# null tail of l5), from 749_img2R_s3.png/s4.png (ll. 1-3) and 749_img2R_s5.png (ll. 3-5) (crops 2.2-3x).
+# s4 cuts l3 at the foot and s5 shows only its lower half; l3 was read from the two halves together.
+# Sign names and conventions as in 749_L2_signs.txt.
+
+L5 l1 | "Cum." "etiam." "b" | "Sis." => <Ibrahim Passa> | Δ(et) | "Nis." => <Junus Bey> | λ(h) =(a) 16(nn) ϑ(o) => hanno |
+        λ(h) M(a) ϙ(u) δ̶(t) P̊(o) => hauto | #(a) => a | ⊙(d) 7(i) e(r) #o(e) => dire | +(c) λ(h) ϙ̥(e) => che | K(e) => e |
+        o-(u) h(n) =(a) => una | ⊔(g) e(r) M(a) P(n) ϙ̦(d) ϙ̥(e) => grande |
+        -o(u) K(e) ϙ̦x(r) Π(g) ϑ(o) ⊔(g) h(n) #(a) => uergogna | ⊙(d) 7(i) => di | α(q) ϙ(u) || (l2) #o(e) a(s) o?(t expected) Γ(i) => {questi}
+L5 l2 | "Mos." => <the French> | ‡(c) λ(h) K(e) => che | ϙ(u) ϙ̥(e) h(n) ⊔(g) ϑ(o) P(n) P̥(o) => uengono | +(c) ∂(o) h(n) => con |
+        ♀(t) =(a) P(n) δ̶(t) K(e) => tante | ɔ(b) o-(u) a(s) Γ(i) #o(e) => busie | ϙ̦(d) =(a) υ(l) => dal |
+        "Ras." => <Imperator Turcorum> | ∇(et) | +(c) λ(h) ϙ̥(e) => che | ‡(c) ϑ(o) π(s) M(a) => cosa | ⊙(d) K(e) => de |
+        7(i) f(m) ⊥(p) || (l3) ∂(o) e(r) δ̶(t) =(a) h(n) ϙ(t) Γ(i) #(a) => importantia
+L5 l3 | T(p) -o(u) P̊(o) ⊃(l, open arch on its side) K(e) h(n) P̊(o) => puoleno | P? ϙ(e) 13(ss) K(e) e(r) #o(e) => essere (first sign doubtful) |
+        8(q) ϙ(u) K(e) π(s) δ̶(t) K(e) => queste | +(c) λ(h) ϙ̥(e) => che | T(p) ϑ(o) ϙ̦x(r) δ̶(t) M(a) => porta |
+        ϙ̥(e) ⊃(l) => el | +(c) =(a) ⊥(p) 7(i) ϙ(t) M(a) P(n) => capitan |
+        ɔ(b) #(a) e(r) ϙ(t) ϑ(o) ∪(l) P̊(o) || (l4) f(m) 7(i) °P(o) => bartolomio
+L5 l4 | K(e) 13(ss) ϙ(e) h(n) ϙ̦(d) ∂(o) => essendo | λ(h) P̊(o) e(r) =(a) => hora | F(m) M(a) Γ(i) => mai | -o(u) P(n) => un |
+        f(m) K(e) a(s) #o(e) => mese | ‡(c) λ(h) K(e) => che | ϙ̥(e) => e | α(q) o-(u) #(a) => qua | Δ(et) |
+        λ(h) =(a) ϙ(u) K(e) P(n) ⊙(d) °P(o) => hauendo | v(f) =(a) 12(tt) ϑ(o) => fatto | T(p) e(r) 7(i) F(m) M(a) => prima |
+        #(a) υ(l) => al
+L5 l5 | Π(g) 7(i) ϑ(o) h(n) ⊔(g) K(e) e(r) => gionger | Π-stub(s) ϙ(u) P̊(o) => suo | α(q) o-(u) M(a) => qua |
+        δ̶(t) =(a) h(n) ϙ(t) #(a) => tanta | v(f) -o(u) ϙ̦x(r) Γ(i) =(a) => furia | ⊙(d) #o(e) => de |
+        o-(u) °P(o) ∪(l) #o(e) e(r) K(e) => uolere | T(p) =(a) ϙ̦x(r) δ̶(t) Γ(i) e(r) ϙ̥(e) => partire |
+        "Π." "b." "n." "z." "spu." (nulls)

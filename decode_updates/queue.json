@@ -14088,7 +14088,34 @@
    }
   },
   "ibrahim1548": {
-   "skip": "Not on DECODE: no record for HHStA StAbt Tuerkei I 7-4-4, 7-4-5, 7-4-9 (AIS 7040827, 7040824, 7040845; local DECODE harvest searched 29 Oct 2026); nothing to correct yet. In progress: the AIS scans are public; candidate key DECODE R367/R386 (Ferdinand-Malvezzi 1548) not yet applied. If R367 reads them, note on R367 that it also serves Malvezzi's 1548 copies of the Polish, Martinuzzi and Isabella letters to Ibrahim Pasha, and propose new records."
+   "writeup": null,
+   "key": {
+    "decode": "R367",
+    "lang": "LA"
+   },
+   "cite": null,
+   "fields": {},
+   "note": "Key R367 (Ferdinand-Malvezzi 1548, second copy R386) also serves Malvezzi's 1548 cipher copies in HHStA StAbt Tuerkei I 7-4-4, 7-4-5 and 7-4-9, which are not on DECODE. Worth adding to R367's note: this hand writes r as the 9 with a crossed tail and x as the 9 with a smooth tail (the reverse of a first reading of the key); h-hook = n; plain Pi and Sha = g; footed circle = q. Code groups seen in these copies and not in R367: Mos = the French, Mes = (Your) Majesty, Ris = the Venetian bailo, za = Constantinople (R367 has Cad), Ses = Salih Reis, yu = Persia, Mus = both Majesties, 59 = exercito, 68 = a ship type (gloss 'Triremes'), a three-barred Sha sign = annus. Work in progress (catalogue 885); records to propose below.",
+   "records": {},
+   "new_records": [
+    {
+     "shelfmark": "Wien, HHStA, StAbt Tuerkei I 7-4-4 (AIS 7040827), f. 28-30",
+     "what": "Sigismund August, King of Poland, to Ibrahim Pasha, Cracow, 1 June 1548; two cipher copies (f. 28, f. 29 'replica') in the R367 key, sent to Ferdinand I by Malvezzi, with the Latin exemplar on f. 30. Both copies deciphered with R367 (targets/ibrahim1548). Images public on AIS."
+    },
+    {
+     "shelfmark": "Wien, HHStA, StAbt Tuerkei I 7-4-5 (AIS 7040824), f. 31-34",
+     "what": "Frater Georg (Martinuzzi), bishop of Varad, to Ibrahim Pasha: letter B, 6 June 1548, and letter C, 2 July 1548, each in two cipher copies in the R367 key, with Latin exemplars on f. 34. All four copies deciphered with R367. The 'Dupl.' dockets on images 3 and 4 appear swapped."
+    },
+    {
+     "shelfmark": "Wien, HHStA, StAbt Tuerkei I 7-4-9 (AIS 7040845), f. 51-59",
+     "what": "Malvezzi to Ferdinand I, Constantinople, 26 Aug 1548, in Italian with ciphered paragraphs in the R367 key and a contemporary interlinear Italian decipherment; a replica; and two enclosed cipher copies (B, C) of further Frater Georg letters to Ibrahim Pasha, B dated Corde, 28 July 1548. The letter's cipher deciphered with R367 and checked on the interlinear; B and C read in part."
+    }
+   ],
+   "transcription": [
+    "targets/ibrahim1548/transcription/r367/f28_signs.txt",
+    "targets/ibrahim1548/transcription/r367/7-4-5_B_signs.txt",
+    "targets/ibrahim1548/transcription/r367/7-4-9_L2_signs.txt"
+   ]
   }
  }
 }

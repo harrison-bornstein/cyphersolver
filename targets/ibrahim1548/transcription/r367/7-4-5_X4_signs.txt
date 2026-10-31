@@ -1,0 +1,28 @@
+# 745X4: img4, cipher copy (margin mark, docket "Dupl. 1548 2/7"), letter B (6 June 1548)
+# Sign names: k367.txt / KEY_BRIEF names where they exist, written as the glyphs of KEY_BRIEF.md:
+#  M = # (a); c ɔ (b); + ‡ (c); ⊙ θ ϑd(looped g) (d); K ϙ̊(circ-ring) #o (e/ae); v ^ (f); Π-plain Ш U-with-feet (g);
+#  λ h-hook (h: λ; h-hook = n in this hand); Γ 7 ϙ7(o7) (i); ∪ ∩ breve arch (l); F f (m); P h (n); ∂ °P P̥ (o);
+#  T ⊥ (p); α ♉ σ ϑq (q); e ϑr(9 with crossed tail) (r); a Π-tick (s); ♀ ‡̊ ♁ t-loop (t); ϙ(circ-stem) -o o- ‿o (u/v);
+#  ϑx(9 with smooth tail) (x); Δ ∇ (et); 5=ff 12=tt 13=ss 14=rr 16=nn; 50=bellum; ⧻o = annus sign (Ш with three bars).
+#  "quoted" tokens = Latin-letter nulls or code words (Ka, zos, Ras, Sis, zi ...). ? = doubtful sign. [cut] = lost at torn edge.
+#  "|" separates cipher words; text after => is the value read (see 745_reading.txt for the token format).
+
+L01: "Porro" "spu" "z" "π" | e #o ⊥ ∪ ϙ7 ‡ M => replica | "Der" | K ϑ ϙ̊ f T ∩ ϙ F => exemplum | ∪ 7 12 ϙ̊ e = x o- f => litterarum | "zos" => <fratris_Georgii> | "n" "b" | # ⊙ => ad | K ɔ e = ϙ7 => ebrai | "Ka" => <Passam> | "d" "spo"
+L02: Γ 7ll ϙ a ‡̊ e ϙ7 13 7 f #o => illustrissime | ⊙ °P f Γ h ϙ̊ => domine | ∂ ɔ π K -o = P ϙ̊d ϙ7 13 7 F ϙ̊ => {obseruandissime} (no r) | a #o x o- Γ ♀ ϙ7 B e ϙ f => seruitiorum | F K ∂ e o- f => meorum | + °P F ϙ̊ P ⊙ = (L03) ϙ Γ B h K f => {comendationem} (t written as plain circ-stem)
+L03: F M h ϙ̊d = ϙ K e # ‡̊ => mandauerat | T ∂ ♀ #o P ‡̊ ϙ7 13 Γ f ϙ- π => potentissimus | Γ f ⊥ ϙ̊ e = ♀ °T ϑ => imperator | -o ‡̊ => ut | a ϙ7 => si | ♉ ϙ Γ π̲ => [quid?] | ‡ #o e ♀ Γ => certi | Γ h ϙ̊? ϙ̊? ...
+# (L03 end) Γ h ϙ̊d? ϙ̊ | (L04) ∪ 7 Ш ϙ̊ ϑ K f => {intelligerem} (signs: in?e-ligerem, one l, 3rd sign looped stem)
+L04: F = #o a ♀ M ‡̊ Γ => {maiestati} (no i) | π -o K => suae | T ϙ̊ e a + ϑ ϙ7 c K e ϙ̊ f => perscriberem | π ‡ e ϙ7 T a Γ => scripsi | ϙ7 Π Γ ♀ -o ϑ => igitur | ϙ P -o a => [unus/enus] (not in exemplar) | ⊙ ϙ̊ => de | α -o Γ ɔ ϙ a ϙ̊d = (L05) F => quibusdam
+L05: e #o c -o π => rebus | P ∂ -o ϙ7 a => nouis | 7 h ϙ Γ ‡ ‡̊ 7 13 ϙ7 f ∂ => inuictissimo | + K a # ϑ ϙ7 => caesari | e P̥ Ш °P => rogo | 7 ♀ = ♉ o- ϙ̊ => itaque | ⊙ ∂ f Γ h = ‡̊ 7 8P h #o F => dominationem
+L06: -o K π ♀ e M f => uestram | ϙ7 7> -o a ‡̊ e Γ 13 ϙ7 F # f => illustrissimam | ϙ K ∪ 7 ‡̊ => uelit | F #o M a => meas | ∪ Γ 12 K e = π => litteras | # ⊙ => ad | ⊥ ∂ ‡̊ #o h ♀ ϙ7 13 Γ f ϙ F => potentissimum
+L07: ϙ7 f T K ϑ M ‡̊ P̥ e ϙ̊ f => imperatorem | ♀ e = P a F 7 12 ϙ̊ ϑ #o => transmittere | "Dar" "d" | 50 => <bellum> | ♉ -o ∂ g-loop => quod | P ϙ h ‡ => nunc | v #o e ⊙ 7 P = h ϙ̊d -o π => ferdinandus | e ϙ̊ ϑs => rex | 7 h => in | "zi" => <Hungariam>
+L08: F Γ a ϙ7 ‡̊ => misit | + ∂ h ♀ e # => contra | λ -o P Ш = ϑ P̥ π => hungaros | ‡̊ M h ♀ ϙ- F => tantum | F ϙ7 -o? 13 Γ ‡̊ => {misit} (signs: mi-?-ss-it) | α -o ϙ7 => qui | #o Γ => ei | ϙ7 h ∂ ɔ ϙ̊ ⊙ Γ ϙ̊ h ♀ K a => inobedientes | V ϙ K (L09) e [blot] h ♀ => {fuerunt} (one sign blotted/struck)
+L09: P ∂ h => non | ϙ̊ π ‡̊ => est | ♀ = f K P => tamen | #o Γ -o a ⊙ ϙ̊ F => eiusdem | 50 => <bellum> | α -o P̥ g-loop => quod | T ∂ ♀ K h ‡̊ ϙ7 13 Γ f P̥ => potentissimo | Γ F ⊥ ϙ̊ e = ♀ ∂ ϑ ϙ7 => imperatori | h ∂ (L10) ‡ ϙ̊ e K => nocere
+L10: T P̥ 13 #o ‡̊ => posset | P = f => nam | π ϙ7 => si | ♉ ϙ Γ g-loop => quid | K 7 -o a => eius | ⊙ ϙ̊ F => [dem] | K 13 #o ♀ => esset | ⊙ ϙ ϙ̊d -o f => dudum | λ = + => [hac] | ∇ => et | ⊥ ∂ ‡̊ K h ♀ ϙ7 13 Γ f P̥ => potentissimo
+L11: ϙ7 F T ϙ̊ e = ‡̊ °P e Γ => imperatori | Δ => et | ⊙ P̥ f 7 h = ♀ Γ °P h #o F => dominationem | ϙ K a ‡̊ e = f => uestram | ϙ7 7> -o 13 ♀ e Γ a 7 F = f => {illustrissimam} (signs: illusstrisimam) | T ϙ̊ e π + ϑ ϙ7 ⊥ a Γ => perscripsi
+L12: 13 K f => (perscripsi)ssem | "cum" "b" | h ∂ a => nos | λ ϙ7 ‡ => hic | π ϙ ɔ => sub | T e °P ‡̊ K + ♀ Γ ∂ h #o => protectione | F = ϙ a ‡̊ # ♀ ϙ7 π => {maiestatis} (signs ma?statis, circ-stem for ie) | + K a M e ϙ̊ #o => cesareae | ϙ7 P => in | ⊥ = e ‡̊ K => parte
+L13: π [Π-bold null?] ϙ f ϙ a => sumus | "π" "n" | ‡̊ ϑ ϙ7 ♀ Γ + o- F => triticum | ‡̊ # f K P => tamen | c ∂ h -o F => bonum | P P̥ h => non | Λ = ɔ ϙ f ϙ- a => habemus | ⊥ e ∂ T ♀̊ K e => propter | ⊥ ∪ -o ϙ ϙ7 = a => pluuias
+L14: α ϙ ϙ => quae | ‡̊ ϑ ϙ7 ♀ Γ + o- F => triticum | ϙ7 P => in | # Ш e Γ a => agris | ‡ °P 14 ϙ T -o K e -o h ‡̊ => {corruperunt} (signs: corrupuerunt) | ⊙ ϙ̊ -o π => deus | ϙ̊d ∂ f ϙ7 P = ♀ Γ P̥ h K F => dominationem | ϙ ϙ̊ a ♀ e = (L15) F => uestram
+L15: ϙ7 7> -o 13 ‡̊ e Γ a 7 F = f => {illustrissimam} (signs illusstrisimam) | ‡ ∂ h π ϙ ϑ o- Γ ♀ => {conseruet} (signs conseruit) | ϙ7 P + P̥ ∪ -o f #o h => {incolumem} (signs incolumen) | ⊙ # ‡̊ ϙ f => datum | ‡ P̥ e ϑ(looped,d) #o => corde | ⊙ K + o- ϑ(crossed,r) ϙ7 M => decuria
+L16: ⊙ ϙ7 K => die | π ϙ a ♀̊ °P => {sexto} (signs sesto) | ϙ7 o- h 7 Γ => iunii | f 7 7> K a Γ F ∂ => millesimo | α? ϙ ϙ7 h Ш ϙ P ‡̊ K π 7 f P̥ => quingentesimo | α -o = ϙ̊d e M Π K a Γ F ∂ => quadragesimo | P̥ ‡ ♀ M o- ∂ => octauo
+L17: "idcirco" "e?"(loose letter, null?) "π" "d" | ∇ => et | ∩ ∂ + °P => loco | a -o P̥ => suo | ϙ ϙ7 o- a ⊙ K f => eiusdem | π #o ϑ o- Γ ‡̊ ∂ e => seruitor | "zos" => <frater_Georgius> | K T ϙ7 a + ∂ ⊥ o- π => episcopus | ϙ = ϑ # ⊙ ϙ7 (L18) #o h a Γ π => uaradiensis
+L18: (end of uaradiensis) | "π" "b" "Dar"

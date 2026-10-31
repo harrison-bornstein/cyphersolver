@@ -1,0 +1,23 @@
+# 749 letter passage L1 = first ciphered block of the ORIGINAL letter, HHStA Türkei I 7-4-9
+# image 749_img2_s1.png (fol. 51v, left page of img2), 5 lines; the passage begins on the lost/cut-off
+# fol. 51r (img1 shows only the right edge), so L1 starts mid-sentence.
+# The original carries a CONTEMPORARY INTERLINEAR ITALIAN DECIPHERMENT above every cipher line;
+# the signs below were read first, the gloss used only as a check (noted where it disagrees).
+# Sign names as in KEY_BRIEF / k367.txt. "/" = word space in the manuscript, "|" = my word split.
+# ? = doubtful sign.
+
+L1 l1 | υ(cup=l) =(a) ∩(l) ♀(t) e(r) M(a) | +(c) #(a) o-(u) a(s) =(a) | T(p) o-(u) ∂(o) υ(l) K(e) |
+       ϙ(e) 13(ss) #o(e) e(r) K(e) | +(c) λ(h) ϙ(e) | P(n) °P(o) b(n) | λ(h) =(a) ϙ(u) K(e) b(n) ⊙(d) °P(o) |
+       #o(e) ∩(l) | Ras.(code) | P(n) ∂(o) ϙ(u) ϙ̦(e) | 8-shape(d) K(e) u-cup(g) P(n) #o(e) |
+       ⊙(d) o7(i) | 8-shape(d) =(a) e(r) K(e)
+L1 l2 | ⊥(p) ϙ̦(e) ʛ(r) | M(a) o-(u) Γ(i) a(s) ∂(o) | Δ(et) | ⊙(d) K(e) ɔ(b) ϙ̦(e?) h(n) °P(o) |
+       ∩?(l) #o(e) | +(c) °P(o) π(s) #o(e) | a(s) o-(u) K(e) | T(p) ʛ?(r) ∂?(o) o-(u) #o(e) ⊙(d) #o(e) ʛ(r) #o(e)[?] |
+       ... Π ♀ b e = f K P ϙ̦ ϙ ⊥ K e § [? ~2 words not resolved: gloss has "si impatientie / perho"]
+L1 l3 | P(n) §(o) h(n) | =(a) ϙ(u) o7(i) a(s) #(a) | h(n) #o(e) | υ(l) =(a) 13(ss) M(a) | V(f) ϙ̦(o) g(r) a(s) o7(i) |
+       +(c) λ(h) ϙ̦(e) | =(a) ∩(l) ϙ(t?) e(r) [i?] | M(a) -o(u) o7(i) π(s) o7(i) P(n) §(o) |
+       ‡(c) °P(o) a(s) =(a) | M(a) o(l) ‡(c) o-(u) P(n) #(a) | T(p) ϙ̦(e) ϙ̦(r) °P(o)
+L1 l4 | ⊙(d) K(e) | u-cup(g) ʛ?(i?) §(o) c?(r?) h(n) °P(o) | o7(i) h(n) | π(s)? o7(i) T(p) ϙ̦(?) P(n) §(o) [?]
+       | a(s) K(e) | #(a) π(s) T(p) K(e) 12(tt) =(a) h(n) §(o) | P(n) §(o) -o(u) ϙ̦(e) | ⊙(d) e?(a?) |
+       α?(q) ϙ(u) =(a) o-(l?) +(c) λ(h) #o(e) | a?(f?) f(a?) ʛ 12(tt) ∩?(o?) [gloss: "fatto"] |
+       7? f(m) ⊥(p) §/1?(o) g(r) e(t?) ϙ̦ M(a)
+L1 l5 | b(n) . h?(n) ϙ̦(t?) K(e) | etiam . spo . z n b π (all nulls) [line holds only the tail of the last word + nulls]
